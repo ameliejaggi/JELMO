@@ -1,0 +1,13 @@
+spaltenname,zellen_verglichen,perfekte_zellen,anteil_perfekt,edit_distanz_summe,gt_zeichen_summe,cer_spalte
+No,120,118,0.9833,10,369,0.0271
+Familienname,120,78,0.65,85,812,0.1047
+Vorname,120,93,0.775,64,705,0.0908
+Heimatsort,120,56,0.4667,319,1170,0.2726
+Land,120,63,0.525,182,706,0.2578
+Geburtsjahr,120,85,0.7083,120,555,0.2162
+Beruf,120,61,0.5083,129,821,0.1571
+Bisheriger Wohnort,120,48,0.4,234,512,0.457
+Eingetreten Jahr Monat Tag,120,30,0.25,262,1220,0.2148
+Wohnung Strasse No.,120,27,0.225,754,2129,0.3542
+Ausgetreten Jahr Monat Tag,120,51,0.425,270,1457,0.1853
+Bemerkungen des Kontrollbeamten (Art. 12),120,58,0.4833,540,581,0.9294

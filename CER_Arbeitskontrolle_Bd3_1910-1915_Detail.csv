@@ -1,0 +1,1441 @@
+zeile_idx,spalte_idx,spaltenname,ground_truth,ocr_ausgabe,edit_distanz,gt_laenge,cer_zelle,perfekt
+1,1,No,802,802,0,3,0.0,ja
+1,2,Familienname,Grotz,Grotz,0,5,0.0,ja
+1,3,Vorname,Friedrich,Friedrich,0,9,0.0,ja
+1,4,Heimatsort,Wetzikon,Wetzikon,0,8,0.0,ja
+1,5,Land,Kt. Zürich,Kt. Zürich,0,10,0.0,ja
+1,6,Geburtsjahr,1883,1883,0,4,0.0,ja
+1,7,Beruf,Schreiner,Schreiner,0,9,0.0,ja
+1,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+1,9,Eingetreten Jahr Monat Tag,1910 Juni 27,1910 Juni 23,1,12,0.0833,nein
+1,10,Wohnung Strasse No.,Seefeldstr. 138,Seefeldstr. 138,0,15,0.0,ja
+1,11,Ausgetreten Jahr Monat Tag,1912 Sept. 12,1913 Sept. 12,1,13,0.0769,nein
+1,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+2,1,No,803,803,0,3,0.0,ja
+2,2,Familienname,Schwemmer,Schwemmer,0,9,0.0,ja
+2,3,Vorname,Antoinette Martha,Martha,11,17,0.6471,nein
+2,4,Heimatsort,Winterthur,Hindersburg,5,10,0.5,nein
+2,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+2,6,Geburtsjahr,2. IX 1892,1892,6,10,0.6,nein
+2,7,Beruf,Verkäuf.,Verkäuf.,0,8,0.0,ja
+2,8,Bisheriger Wohnort,Nürnberg,Nürnberg,0,8,0.0,ja
+2,9,Eingetreten Jahr Monat Tag,1910 Juli 1,1910 Juli 1,0,11,0.0,ja
+2,10,Wohnung Strasse No.,Rotbuchstr 55,Bottbuchstr. 55,3,13,0.2308,nein
+2,11,Ausgetreten Jahr Monat Tag,1911 März 15,1911 März 15,0,12,0.0,ja
+2,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ b. d. E. .Georg 57 beni e.,d. d. B. Georg 57 Lomming,12,28,0.4286,nein
+3,1,No,804,804,0,3,0.0,ja
+3,2,Familienname,Döllinger,Döllinger,0,9,0.0,ja
+3,3,Vorname,Käthe,Käthe,0,5,0.0,ja
+3,4,Heimatsort,Nürnberg,Nürnberg,0,8,0.0,ja
+3,5,Land,Bayern,Bayern,0,6,0.0,ja
+3,6,Geburtsjahr,1882,1882,0,4,0.0,ja
+3,7,Beruf,Verk.,Vork.,1,5,0.2,nein
+3,8,Bisheriger Wohnort,Hochdorf,Hochdorf,0,8,0.0,ja
+3,9,Eingetreten Jahr Monat Tag,""" "" 1.",1910 Sept. 1,10,6,1.6667,nein
+3,10,Wohnung Strasse No.,Centralstr. 41,Centralstr. 41,0,14,0.0,ja
+3,11,Ausgetreten Jahr Monat Tag,1910 Okt. 1,1910 Sept. 1,3,11,0.2727,nein
+3,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+4,1,No,805,805,0,3,0.0,ja
+4,2,Familienname,Müller,Müller,0,6,0.0,ja
+4,3,Vorname,Louise,Louise,0,6,0.0,ja
+4,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+4,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+4,6,Geburtsjahr,1895,1895,0,4,0.0,ja
+4,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+4,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+4,9,Eingetreten Jahr Monat Tag,1910 Sept. 1,1910 Sept. 1,0,12,0.0,ja
+4,10,Wohnung Strasse No.,Turnerstr. 19.,Turnerstr. 19,1,14,0.0714,nein
+4,11,Ausgetreten Jahr Monat Tag,- - -,1911 Juni 15,10,5,2.0,nein
+4,12,Bemerkungen des Kontrollbeamten (Art. 12),,d. d. B. 62,11,0,11.0,nein
+5,1,No,806,806,0,3,0.0,ja
+5,2,Familienname,Keller,Keller,0,6,0.0,ja
+5,3,Vorname,Emma,Emma,0,4,0.0,ja
+5,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+5,5,Land,"""",u,1,1,1.0,nein
+5,6,Geburtsjahr,1887,1883,1,4,0.25,nein
+5,7,Beruf,Verkäuf.,Verkäuf.,0,8,0.0,ja
+5,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+5,9,Eingetreten Jahr Monat Tag,1910 Sept. 15,1910 Sept. 15,0,13,0.0,ja
+5,10,Wohnung Strasse No.,Müller Werdgässeli 35,Nerdgässeli 35,8,21,0.381,nein
+5,11,Ausgetreten Jahr Monat Tag,1911 Juni 15,1911 Juni 15,0,12,0.0,ja
+5,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ b. d. E.,,10,10,1.0,nein
+6,1,No,807,807,0,3,0.0,ja
+6,2,Familienname,Motsch,Motsch,0,6,0.0,ja
+6,3,Vorname,Hedwig,Hedwig,0,6,0.0,ja
+6,4,Heimatsort,Saargmünd,Saargemünd,1,9,0.1111,nein
+6,5,Land,Elssas-L.,Elsass-L.,2,9,0.2222,nein
+6,6,Geburtsjahr,1889,1889,0,4,0.0,ja
+6,7,Beruf,Modistin,Modistin,0,8,0.0,ja
+6,8,Bisheriger Wohnort,Paris.,Paris,1,6,0.1667,nein
+6,9,Eingetreten Jahr Monat Tag,1910 Aug. 19,1910 Aug. 19,0,12,0.0,ja
+6,10,Wohnung Strasse No.,Leonhardstr. 11,Leonhardstr. 11,0,15,0.0,ja
+6,11,Ausgetreten Jahr Monat Tag,1910 Sept. 17.,1910 Sept. 17,1,14,0.0714,nein
+6,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+7,1,No,808,808,0,3,0.0,ja
+7,2,Familienname,Adam,Adam,0,4,0.0,ja
+7,3,Vorname,Marie,Marie,0,5,0.0,ja
+7,4,Heimatsort,Trier a. Mosel,Trier o. Moll,3,14,0.2143,nein
+7,5,Land,Preussen,Preussen,0,8,0.0,ja
+7,6,Geburtsjahr,1878,1878,0,4,0.0,ja
+7,7,Beruf,Angestellte,Angestellte,0,11,0.0,ja
+7,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+7,9,Eingetreten Jahr Monat Tag,1910 Aug. 22,1910 Aug. 22,0,12,0.0,ja
+7,10,Wohnung Strasse No.,Hallwylstr. 43,Kalthofstr. 43,5,14,0.3571,nein
+7,11,Ausgetreten Jahr Monat Tag,1911. Aug. 15,1911 Aug. 15,1,13,0.0769,nein
+7,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+8,1,No,809,809,0,3,0.0,ja
+8,2,Familienname,Geissmann,Gissmann,1,9,0.1111,nein
+8,3,Vorname,Ida,Ida,0,3,0.0,ja
+8,4,Heimatsort,Mandach,Mandach,0,7,0.0,ja
+8,5,Land,Bern,Bern,0,4,0.0,ja
+8,6,Geburtsjahr,1894,1894,0,4,0.0,ja
+8,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+8,8,Bisheriger Wohnort,,u,1,0,1.0,nein
+8,9,Eingetreten Jahr Monat Tag,1910 Aug. 22,1910 Aug. 22,0,12,0.0,ja
+8,10,Wohnung Strasse No.,Spyristr. 30,Spazierstr. 30,4,12,0.3333,nein
+8,11,Ausgetreten Jahr Monat Tag,1918 Dez. 31.,1918 Dez. 31,1,13,0.0769,nein
+8,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Hrch 70 Taglöhner,Hoch 71 Torg Gofund,13,19,0.6842,nein
+9,1,No,810,810,0,3,0.0,ja
+9,2,Familienname,Frister,Frister,0,7,0.0,ja
+9,3,Vorname,Theodor,Theodor,0,7,0.0,ja
+9,4,Heimatsort,Wattwyl,Hattwyl,1,7,0.1429,nein
+9,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+9,6,Geburtsjahr,1890,1890,0,4,0.0,ja
+9,7,Beruf,Angestellter,Angestellter,0,12,0.0,ja
+9,8,Bisheriger Wohnort,Wattwyl,Hattwyl,1,7,0.1429,nein
+9,9,Eingetreten Jahr Monat Tag,1910 Aug. 22,1910 Aug. 22,0,12,0.0,ja
+9,10,Wohnung Strasse No.,Brennweg 75 Schmid Pestalozzistr. 37,Ludolffgasse 3,31,36,0.8611,nein
+9,11,Ausgetreten Jahr Monat Tag,1916 Juni 30,1916 Juni 30,0,12,0.0,ja
+9,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+10,1,No,811,811,0,3,0.0,ja
+10,2,Familienname,Zimmermann,Zimmermann,0,10,0.0,ja
+10,3,Vorname,Ernst,Ernst,0,5,0.0,ja
+10,4,Heimatsort,Drasadingen,Drasadingen,0,11,0.0,ja
+10,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+10,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+10,7,Beruf,Hausdiener,Hausdiener,0,10,0.0,ja
+10,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+10,9,Eingetreten Jahr Monat Tag,1910 Aug. 24,1910 Aug. 24,0,12,0.0,ja
+10,10,Wohnung Strasse No.,Birmensdorferstr. 86,Birmensdorferstr. 86,0,20,0.0,ja
+10,11,Ausgetreten Jahr Monat Tag,1910 Dez. 31,1910 Dez. 31,0,12,0.0,ja
+10,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+11,1,No,812,812,0,3,0.0,ja
+11,2,Familienname,Aeberli,Aeberli,0,7,0.0,ja
+11,3,Vorname,Ida,Ida,0,3,0.0,ja
+11,4,Heimatsort,Männedorf,Männedorf,0,9,0.0,ja
+11,5,Land,,u,1,0,1.0,nein
+11,6,Geburtsjahr,1880,1880,0,4,0.0,ja
+11,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+11,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+11,9,Eingetreten Jahr Monat Tag,1910 Sept 1,1910 Sept. 1,1,11,0.0909,nein
+11,10,Wohnung Strasse No.,Flaschengasse 4,Flaschungasse 4,1,15,0.0667,nein
+11,11,Ausgetreten Jahr Monat Tag,1911. Marz. 31.,1911 März 31,4,15,0.2667,nein
+11,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+12,1,No,813,813,0,3,0.0,ja
+12,2,Familienname,Fast,Fäst,1,4,0.25,nein
+12,3,Vorname,Marie,Marie,0,5,0.0,ja
+12,4,Heimatsort,Bremporitschen Muroschau,Muroschau,15,24,0.625,nein
+12,5,Land,Böhmen,Böhmen,0,6,0.0,ja
+12,6,Geburtsjahr,1890,1890,0,4,0.0,ja
+12,7,Beruf,Controlleurin,Controllleurin,1,13,0.0769,nein
+12,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+12,9,Eingetreten Jahr Monat Tag,1910 Sept. 15,1910 Sept. 15,0,13,0.0,ja
+12,10,Wohnung Strasse No.,Langstrasse 95 Wendstr. 4,Langstrasse 95,11,25,0.44,nein
+12,11,Ausgetreten Jahr Monat Tag,1912 Juni 29,1912 Juni 29,0,12,0.0,ja
+12,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+13,1,No,814,814,0,3,0.0,ja
+13,2,Familienname,Kopp,Kopp,0,4,0.0,ja
+13,3,Vorname,Marie,Marie,0,5,0.0,ja
+13,4,Heimatsort,München,München,0,7,0.0,ja
+13,5,Land,Bayern,Bayern,0,6,0.0,ja
+13,6,Geburtsjahr,1889,1889,0,4,0.0,ja
+13,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+13,8,Bisheriger Wohnort,Innsbruck,Zurich,7,9,0.7778,nein
+13,9,Eingetreten Jahr Monat Tag,1910 Sept 1.,1910 Sept. 1,2,12,0.1667,nein
+13,10,Wohnung Strasse No.,Mowerstr 70 Elbe Zollstrasse 38,Waldstrasse 38,20,31,0.6452,nein
+13,11,Ausgetreten Jahr Monat Tag,1911 Sept. 15,1911 Sept. 15,0,13,0.0,ja
+13,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+14,1,No,815,815,0,3,0.0,ja
+14,2,Familienname,Holl,Holl,0,4,0.0,ja
+14,3,Vorname,Maria,Maria,0,5,0.0,ja
+14,4,Heimatsort,Schwäbischgmünd,Schwäbischgmnüd,2,15,0.1333,nein
+14,5,Land,Württemberg,Württemberg,0,11,0.0,ja
+14,6,Geburtsjahr,1880,1880,0,4,0.0,ja
+14,7,Beruf,Controlleurin,Controllleurin,1,13,0.0769,nein
+14,8,Bisheriger Wohnort,Schwäbischgmünd,Schwäbischgmnüd,2,15,0.1333,nein
+14,9,Eingetreten Jahr Monat Tag,1910 Sept. 1,1910 Sept. 1,0,12,0.0,ja
+14,10,Wohnung Strasse No.,Selnaustrasse 3 Freihofstr. 34,Selmaustrasse 31,16,30,0.5333,nein
+14,11,Ausgetreten Jahr Monat Tag,1911 Nov. 30,1911 Nov. 30,0,12,0.0,ja
+14,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+15,1,No,816,816,0,3,0.0,ja
+15,2,Familienname,Dähler,Dätler,1,6,0.1667,nein
+15,3,Vorname,Helene,Helene,0,6,0.0,ja
+15,4,Heimatsort,Büdiwogen Frankfurt a. M.,Frankfurt a. M.,10,25,0.4,nein
+15,5,Land,Deutsch. Hessen,Deutsch.,7,15,0.4667,nein
+15,6,Geburtsjahr,1882,1882,0,4,0.0,ja
+15,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+15,8,Bisheriger Wohnort,Frankfurt a. M.,Frankfurt a. M.,0,15,0.0,ja
+15,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+15,10,Wohnung Strasse No.,Zeltweg 21. 194. Ma.,Zellweg 21,11,20,0.55,nein
+15,11,Ausgetreten Jahr Monat Tag,Zeltweg 21. 194. Ma.,1911 Nov. 1,16,20,0.8,nein
+15,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+16,1,No,vide 812 817,817,9,12,0.75,nein
+16,2,Familienname,Aeberli,Aeberli,0,7,0.0,ja
+16,3,Vorname,Ida,Ida,0,3,0.0,ja
+16,4,Heimatsort,Männedorf,Männedorf,0,9,0.0,ja
+16,5,Land,Zürich,Zürich,0,6,0.0,ja
+16,6,Geburtsjahr,1880,1880,0,4,0.0,ja
+16,7,Beruf,,u.,2,0,2.0,nein
+16,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+16,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+16,10,Wohnung Strasse No.,Flaschengasse 4,Flaschungasse 4,1,15,0.0667,nein
+16,11,Ausgetreten Jahr Monat Tag,1911 März 31,1911 März 31,0,12,0.0,ja
+16,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+17,1,No,818,818,0,3,0.0,ja
+17,2,Familienname,Stocker,Stocker,0,7,0.0,ja
+17,3,Vorname,Lydia,Lydia,0,5,0.0,ja
+17,4,Heimatsort,Gunzwil,Günzwil,1,7,0.1429,nein
+17,5,Land,Luzern,Luzern,0,6,0.0,ja
+17,6,Geburtsjahr,1891,1891,0,4,0.0,ja
+17,7,Beruf,Controlleurin,Controllleurin,1,13,0.0769,nein
+17,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+17,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+17,10,Wohnung Strasse No.,Dienerstr. 16.,Dunersstr. 16,4,14,0.2857,nein
+17,11,Ausgetreten Jahr Monat Tag,1915 6 30,1915 Juni 30,4,9,0.4444,nein
+17,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Alois 54 Hölgr,Moin 54 ch.Plus,11,16,0.6875,nein
+18,1,No,819,819,0,3,0.0,ja
+18,2,Familienname,Seibel,Seibel,0,6,0.0,ja
+18,3,Vorname,Anna,Anna,0,4,0.0,ja
+18,4,Heimatsort,Anweilen Ludwigshafen,Ludwigshafen,9,21,0.4286,nein
+18,5,Land,Deutsch.,Deutsch.,0,8,0.0,ja
+18,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+18,7,Beruf,Kassiererin,Kassiererin,0,11,0.0,ja
+18,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+18,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+18,10,Wohnung Strasse No.,Badmerstr. 5,Budmerst 5,3,12,0.25,nein
+18,11,Ausgetreten Jahr Monat Tag,1920 März 15,1920 April 15,4,12,0.3333,nein
+18,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+19,1,No,820,820,0,3,0.0,ja
+19,2,Familienname,Schaffner,Schaffner,0,9,0.0,ja
+19,3,Vorname,Rosa,Rosa,0,4,0.0,ja
+19,4,Heimatsort,Aarau,Carau,1,5,0.2,nein
+19,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+19,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+19,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+19,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+19,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+19,10,Wohnung Strasse No.,Köchlistr. 7.,Höchliststr. 7,4,13,0.3077,nein
+19,11,Ausgetreten Jahr Monat Tag,1911 Febr. 22,1911 Febr. 22,0,13,0.0,ja
+19,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+20,1,No,821,821,0,3,0.0,ja
+20,2,Familienname,Köpke,Höpke,1,5,0.2,nein
+20,3,Vorname,Hedwig,Hedwig,0,6,0.0,ja
+20,4,Heimatsort,Harreberg,Harveberg,1,9,0.1111,nein
+20,5,Land,Deutsch,Deutsch,0,7,0.0,ja
+20,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+20,7,Beruf,,u.,2,0,2.0,nein
+20,8,Bisheriger Wohnort,"""",u,1,1,1.0,nein
+20,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+20,10,Wohnung Strasse No.,Auf d. Maur 21.,Auf d. Maur 21,1,15,0.0667,nein
+20,11,Ausgetreten Jahr Monat Tag,1912 Dez. 25,1912 Dez. 25,0,12,0.0,ja
+20,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+21,1,No,822,822,0,3,0.0,ja
+21,2,Familienname,Träger,Träger,0,6,0.0,ja
+21,3,Vorname,Marie,Marie,0,5,0.0,ja
+21,4,Heimatsort,Freising,Freising,0,8,0.0,ja
+21,5,Land,Deutschl.,Deutschl.,0,9,0.0,ja
+21,6,Geburtsjahr,1881,1881,0,4,0.0,ja
+21,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+21,8,Bisheriger Wohnort,St. Gallen,St. Gallen,0,10,0.0,ja
+21,9,Eingetreten Jahr Monat Tag,190 Sept. 1,1910 Sept. 1,1,11,0.0909,nein
+21,10,Wohnung Strasse No.,Konradstr. 79,Hunradsstr. 59,4,13,0.3077,nein
+21,11,Ausgetreten Jahr Monat Tag,1912 Okt. 19,1912 April 19,5,12,0.4167,nein
+21,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+22,1,No,823,823,0,3,0.0,ja
+22,2,Familienname,Rieter,Rieter,0,6,0.0,ja
+22,3,Vorname,Martha,Martha,0,6,0.0,ja
+22,4,Heimatsort,Winterthur,Winterthur,0,10,0.0,ja
+22,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+22,6,Geburtsjahr,1815,1885,1,4,0.25,nein
+22,7,Beruf,,u.,2,0,2.0,nein
+22,8,Bisheriger Wohnort,""" """,u.,3,3,1.0,nein
+22,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+22,10,Wohnung Strasse No.,Kalkbreitestr 42,Halksbrückstr. 42,7,16,0.4375,nein
+22,11,Ausgetreten Jahr Monat Tag,1912 Febr. 29.,1912 Feb. 29,2,14,0.1429,nein
+22,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+23,1,No,824,824,0,3,0.0,ja
+23,2,Familienname,Hermann,Hermann,0,7,0.0,ja
+23,3,Vorname,Maria,Maria,0,5,0.0,ja
+23,4,Heimatsort,Hoffenheim,Hoffenheim,0,10,0.0,ja
+23,5,Land,Deutsch.,Deutsch,1,8,0.125,nein
+23,6,Geburtsjahr,1891,1891,0,4,0.0,ja
+23,7,Beruf,,u.,2,0,2.0,nein
+23,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+23,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 u. 1,2,8,0.25,nein
+23,10,Wohnung Strasse No.,Schützengasse 5,Schützengasse 5,0,15,0.0,ja
+23,11,Ausgetreten Jahr Monat Tag,1910 Sept. 15,1910 Sept. 15,0,13,0.0,ja
+23,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+24,1,No,825,825,0,3,0.0,ja
+24,2,Familienname,Kern,Kern,0,4,0.0,ja
+24,3,Vorname,Klara,Klara,0,5,0.0,ja
+24,4,Heimatsort,Berhigen,Berhingen,1,8,0.125,nein
+24,5,Land,Thurgau,Thurgau,0,7,0.0,ja
+24,6,Geburtsjahr,185 1890,1890,4,8,0.5,nein
+24,7,Beruf,"ausgeb. """,angibt.,6,9,0.6667,nein
+24,8,Bisheriger Wohnort,St. Gallen,St. Gallen,0,10,0.0,ja
+24,9,Eingetreten Jahr Monat Tag,"1910 "" 2.",1910 u. 2,3,9,0.3333,nein
+24,10,Wohnung Strasse No.,Ewainekroll 2 Heimolofher Theaterstrasse 21,Theaterstrasse 2,27,43,0.6279,nein
+24,11,Ausgetreten Jahr Monat Tag,1910 Sept. 30,1910 Sept. 30,0,13,0.0,ja
+24,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+25,1,No,826,826,0,3,0.0,ja
+25,2,Familienname,Ebier,Ebner,1,5,0.2,nein
+25,3,Vorname,Betty,Betty,0,5,0.0,ja
+25,4,Heimatsort,Leopoldgrund,Leopoldgrund,0,12,0.0,ja
+25,5,Land,Salzburg,Salzburg,0,8,0.0,ja
+25,6,Geburtsjahr,1876,1876,0,4,0.0,ja
+25,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+25,8,Bisheriger Wohnort,Wiesbaden. Innsbruck,Wiesbaden,11,20,0.55,nein
+25,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 u. 1,3,9,0.3333,nein
+25,10,Wohnung Strasse No.,Flössergasse 3 II,flößergasse 34,6,17,0.3529,nein
+25,11,Ausgetreten Jahr Monat Tag,1910 Dez. 31.,1910 Dez. 31,1,13,0.0769,nein
+25,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+26,1,No,827,827,0,3,0.0,ja
+26,2,Familienname,Billeter,Billeter,0,8,0.0,ja
+26,3,Vorname,Ella,Ella,0,4,0.0,ja
+26,4,Heimatsort,Männedorf,Nämedorf,3,9,0.3333,nein
+26,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+26,6,Geburtsjahr,1892,1892,0,4,0.0,ja
+26,7,Beruf,Arbeiterin,Arbeiterin,0,10,0.0,ja
+26,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+26,9,Eingetreten Jahr Monat Tag,1910 Sept. 5,1910 Sept. 5,0,12,0.0,ja
+26,10,Wohnung Strasse No.,Maurereistr. 200,Mammutstr. 200,6,16,0.375,nein
+26,11,Ausgetreten Jahr Monat Tag,1912 Nov. 26,1912 Mai 26,4,12,0.3333,nein
+26,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+27,1,No,828,828,0,3,0.0,ja
+27,2,Familienname,Sonderegger Kathrein,Rathrein,13,20,0.65,nein
+27,3,Vorname,Emma,Emma,0,4,0.0,ja
+27,4,Heimatsort,Fliess-Landegg,Gleiss-Landegg,3,14,0.2143,nein
+27,5,Land,Tyrol,Tyrol,0,5,0.0,ja
+27,6,Geburtsjahr,1876,1876,0,4,0.0,ja
+27,7,Beruf,Küche,Küche,0,5,0.0,ja
+27,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+27,9,Eingetreten Jahr Monat Tag,"1910 "" 6",1910 u. 6,2,8,0.25,nein
+27,10,Wohnung Strasse No.,Neuengasse 70 II,Neugasse 30,6,16,0.375,nein
+27,11,Ausgetreten Jahr Monat Tag,1911 April 15,1911 April 15,0,13,0.0,ja
+27,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Ehefr. d. Joh. 78 Sattler & Tagez.,✓,35,36,0.9722,nein
+28,1,No,829,829,0,3,0.0,ja
+28,2,Familienname,Geier,Geier,0,5,0.0,ja
+28,3,Vorname,Marie,Marie,0,5,0.0,ja
+28,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+28,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+28,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+28,7,Beruf,Angestellte,Angestellte,0,11,0.0,ja
+28,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+28,9,Eingetreten Jahr Monat Tag,"wieder eingeteten 1910 "" 15",1910 u. 15,20,27,0.7407,nein
+28,10,Wohnung Strasse No.,Zwinglistr. 13,Zwinglistr. 13,0,14,0.0,ja
+28,11,Ausgetreten Jahr Monat Tag,1912 Jan. 15,1912 Jan. 15,0,12,0.0,ja
+28,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+29,1,No,830,830,0,3,0.0,ja
+29,2,Familienname,Petzold,Petzold,0,7,0.0,ja
+29,3,Vorname,Frau Frieda,Frau Frieda Aurora,7,11,0.6364,nein
+29,4,Heimatsort,Aurass Bez.,Breslau,9,11,0.8182,nein
+29,5,Land,Breslau,Preuss.,5,7,0.7143,nein
+29,6,Geburtsjahr,1868,1868,0,4,0.0,ja
+29,7,Beruf,Modistin,Modistin,0,8,0.0,ja
+29,8,Bisheriger Wohnort,Konstanz,Konstanz,0,8,0.0,ja
+29,9,Eingetreten Jahr Monat Tag,"1910 "" 7.",1910 u. 3,4,9,0.4444,nein
+29,10,Wohnung Strasse No.,Predigerplatz 15,Predigerplatz 15,0,16,0.0,ja
+29,11,Ausgetreten Jahr Monat Tag,1910 Sept. 30.,1910 Sept. 30,1,14,0.0714,nein
+29,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+30,1,No,831,831,0,3,0.0,ja
+30,2,Familienname,Kettenbach,Kettenbach,0,10,0.0,ja
+30,3,Vorname,Philippine,Philippine,0,10,0.0,ja
+30,4,Heimatsort,Frankfurt a. M.,Tromsøfjord,14,15,0.9333,nein
+30,5,Land,Prss.,Norw.,4,5,0.8,nein
+30,6,Geburtsjahr,,1885,4,0,4.0,nein
+30,7,Beruf,At. 24 Arbeiterin,Arbeiterin,7,17,0.4118,nein
+30,8,Bisheriger Wohnort,"""",Embrach,7,1,7.0,nein
+30,9,Eingetreten Jahr Monat Tag,"1910 "" 12",1910 u. 12,2,9,0.2222,nein
+30,10,Wohnung Strasse No.,Gartenstr. 126 Mythenstr. 31,Affolternstr. 1,20,28,0.7143,nein
+30,11,Ausgetreten Jahr Monat Tag,1912 Nov. 30.,1911 März 1,8,13,0.6154,nein
+30,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+31,1,No,832,832,0,3,0.0,ja
+31,2,Familienname,Hug,Hug,0,3,0.0,ja
+31,3,Vorname,Lina,Lina,0,4,0.0,ja
+31,4,Heimatsort,Altstetten,Albstetten,1,10,0.1,nein
+31,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+31,6,Geburtsjahr,1885,1885,0,4,0.0,ja
+31,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+31,8,Bisheriger Wohnort,Embrach,Zürich,4,7,0.5714,nein
+31,9,Eingetreten Jahr Monat Tag,"1910 "" 12",1910 u. 15,3,9,0.3333,nein
+31,10,Wohnung Strasse No.,Affolternstr. 1 Oerlikon,Spiegelgasse 23,22,24,0.9167,nein
+31,11,Ausgetreten Jahr Monat Tag,1911 März 1.,ausbricht,11,12,0.9167,nein
+31,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+32,1,No,833,833,0,3,0.0,ja
+32,2,Familienname,Ladner,Ladner,0,6,0.0,ja
+32,3,Vorname,Louise,Louise,0,6,0.0,ja
+32,4,Heimatsort,Deisslingen Drossengau,Düsseldorfer,16,22,0.7273,nein
+32,5,Land,Wrt. Dutthügen,Düsseldorf,14,14,1.0,nein
+32,6,Geburtsjahr,1882,1882,0,4,0.0,ja
+32,7,Beruf,Schneiderin,Schneiderin,0,11,0.0,ja
+32,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+32,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 u. 15,2,9,0.2222,nein
+32,10,Wohnung Strasse No.,Spiegelgasse 23,Horneggstr. 15,12,15,0.8,nein
+32,11,Ausgetreten Jahr Monat Tag,Austritt,1911 Aug. 31,11,8,1.375,nein
+32,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+33,1,No,834,834,0,3,0.0,ja
+33,2,Familienname,Buff,Buff,0,4,0.0,ja
+33,3,Vorname,Fanny Lilly,Lilly,6,11,0.5455,nein
+33,4,Heimatsort,Appenzell,Appenzell,0,9,0.0,ja
+33,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+33,6,Geburtsjahr,1885,1885,0,4,0.0,ja
+33,7,Beruf,Personal. Verkäuferin,Verkäuferin,10,21,0.4762,nein
+33,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+33,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 u. 15,2,9,0.2222,nein
+33,10,Wohnung Strasse No.,Horneggstr. 15,Minerostr. 116,7,14,0.5,nein
+33,11,Ausgetreten Jahr Monat Tag,1911 Aug. 31,1911 Apr. 15,4,12,0.3333,nein
+33,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+34,1,No,835,835,0,3,0.0,ja
+34,2,Familienname,Widmer,Köhmer,3,6,0.5,nein
+34,3,Vorname,Elise,Elise,0,5,0.0,ja
+34,4,Heimatsort,Heiniswil,Heiniswil,0,9,0.0,ja
+34,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+34,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+34,7,Beruf,,u.,2,0,2.0,nein
+34,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+34,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 u. 15,2,9,0.2222,nein
+34,10,Wohnung Strasse No.,Minervastr. 116,Arnoldgasse 18,11,15,0.7333,nein
+34,11,Ausgetreten Jahr Monat Tag,1911 Apr. 15,1912 Apr. 30,3,12,0.25,nein
+34,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+35,1,No,836,836,0,3,0.0,ja
+35,2,Familienname,Brummer,Brummer,0,7,0.0,ja
+35,3,Vorname,Julia,Julia,0,5,0.0,ja
+35,4,Heimatsort,Krinau Hängelbach,Häringelbach,8,17,0.4706,nein
+35,5,Land,Toggenburg,Toggenburg,0,10,0.0,ja
+35,6,Geburtsjahr,1892,1892,0,4,0.0,ja
+35,7,Beruf,Lehrmädch.,Lehrmädchen,2,10,0.2,nein
+35,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+35,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 u. 15,2,9,0.2222,nein
+35,10,Wohnung Strasse No.,Arnoldgasse 18,Bundralstr. 130,11,14,0.7857,nein
+35,11,Ausgetreten Jahr Monat Tag,1912 Apr. 30,1910 März 1,6,12,0.5,nein
+35,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+36,1,No,837,837,0,3,0.0,ja
+36,2,Familienname,Dieter,Döker,3,6,0.5,nein
+36,3,Vorname,Emma,Emma,0,4,0.0,ja
+36,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+36,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+36,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+36,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+36,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+36,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 u. 15,2,9,0.2222,nein
+36,10,Wohnung Strasse No.,Centralstr. 131,Zeltweg 64,12,15,0.8,nein
+36,11,Ausgetreten Jahr Monat Tag,1910 März 1.,1911 März 1,2,12,0.1667,nein
+36,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+37,1,No,838,838,0,3,0.0,ja
+37,2,Familienname,Hauser,Hanser,1,6,0.1667,nein
+37,3,Vorname,Lina,Lilja,2,4,0.5,nein
+37,4,Heimatsort,Riffeswil Reimlang,Rüfferswil,11,18,0.6111,nein
+37,5,Land,"""",Rümlang,7,1,7.0,nein
+37,6,Geburtsjahr,1883,1883,0,4,0.0,ja
+37,7,Beruf,"""",u.,2,1,2.0,nein
+37,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+37,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 u. 15,2,9,0.2222,nein
+37,10,Wohnung Strasse No.,Zeltweg 64,Hullmannstr. 53,13,10,1.3,nein
+37,11,Ausgetreten Jahr Monat Tag,1911 März 1.,1911 März 1,1,12,0.0833,nein
+37,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,nicht zugelassen,16,1,16.0,nein
+38,1,No,839,839,0,3,0.0,ja
+38,2,Familienname,Steingruber,Steingruber,0,11,0.0,ja
+38,3,Vorname,Antoinette,Antoinette,0,10,0.0,ja
+38,4,Heimatsort,Salzburg,Salzburg,0,8,0.0,ja
+38,5,Land,Oesterreich,Oesterreich,0,11,0.0,ja
+38,6,Geburtsjahr,1894,1894,0,4,0.0,ja
+38,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+38,8,Bisheriger Wohnort,München,Munich,4,7,0.5714,nein
+38,9,Eingetreten Jahr Monat Tag,"1910 "" 16",1910 Okt. 3,6,9,0.6667,nein
+38,10,Wohnung Strasse No.,Kellmannstr. 53,Gymnasiustr. 43,9,15,0.6,nein
+38,11,Ausgetreten Jahr Monat Tag,1911 März 1.,1911 Jan. 28,6,12,0.5,nein
+38,12,Bemerkungen des Kontrollbeamten (Art. 12),nicht gemeldet,✓,14,14,1.0,nein
+39,1,No,840,840,0,3,0.0,ja
+39,2,Familienname,Geiger,Geiges,1,6,0.1667,nein
+39,3,Vorname,Alois,Alvois,1,5,0.2,nein
+39,4,Heimatsort,Oehnsingen,Ochiningen,3,10,0.3,nein
+39,5,Land,Konstanz,Konstanz,0,8,0.0,ja
+39,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+39,7,Beruf,Packer,Packer,0,6,0.0,ja
+39,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+39,9,Eingetreten Jahr Monat Tag,1910 Okt. 3,1910 Sept. 19,5,11,0.4545,nein
+39,10,Wohnung Strasse No.,Gemeindestr. 93  Kauerplatz 53,Münzwachtstr. 116,26,30,0.8667,nein
+39,11,Ausgetreten Jahr Monat Tag,1911 Dez. 28.,1913 Juli 31,8,13,0.6154,nein
+39,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+40,1,No,841,841,0,3,0.0,ja
+40,2,Familienname,Magganti-Widmer,Mazzanti-Vidmer,3,15,0.2,nein
+40,3,Vorname,Emma,Emma,0,4,0.0,ja
+40,4,Heimatsort,Massa,Massa,0,5,0.0,ja
+40,5,Land,Italien,Italien,0,7,0.0,ja
+40,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+40,7,Beruf,Angestellte,Angestellte,0,11,0.0,ja
+40,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+40,9,Eingetreten Jahr Monat Tag,1910 Sept. 19,1910 Sept. 19,0,13,0.0,ja
+40,10,Wohnung Strasse No.,Minervastr. 116,Münzwachtstr. 116,7,15,0.4667,nein
+40,11,Ausgetreten Jahr Monat Tag,1913 Juli 31.,1913 Juli 31,1,13,0.0769,nein
+40,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Silvio 86 Plat Monteur,✓,23,24,0.9583,nein
+41,1,No,842,842,0,3,0.0,ja
+41,2,Familienname,Klyhs,Klyhs,0,5,0.0,ja
+41,3,Vorname,Ida,Ida,0,3,0.0,ja
+41,4,Heimatsort,Brandenburg,Brandenburg,0,11,0.0,ja
+41,5,Land,Preussen,Preussen,0,8,0.0,ja
+41,6,Geburtsjahr,1882,1882,0,4,0.0,ja
+41,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+41,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+41,9,Eingetreten Jahr Monat Tag,1910 Sept. 23,1910 Sept. 23,0,13,0.0,ja
+41,10,Wohnung Strasse No.,Seilergraben 45 Walser,Seilergraben 45,7,22,0.3182,nein
+41,11,Ausgetreten Jahr Monat Tag,1911 März 1.,1911 eKärz 1.,2,12,0.1667,nein
+41,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+42,1,No,843,843,0,3,0.0,ja
+42,2,Familienname,Imbach,Imbach,0,6,0.0,ja
+42,3,Vorname,Mathilde,Mathilde,0,8,0.0,ja
+42,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+42,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+42,6,Geburtsjahr,1893,1893,0,4,0.0,ja
+42,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+42,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+42,9,Eingetreten Jahr Monat Tag,1910 Okt. 1.,1910 Okt. 1,1,12,0.0833,nein
+42,10,Wohnung Strasse No.,Roeschibachstr. 10  Wipkingen,Boschstr. 10,18,29,0.6207,nein
+42,11,Ausgetreten Jahr Monat Tag,1920 April 30.,1920. April 30.,1,14,0.0714,nein
+42,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+43,1,No,844,844,0,3,0.0,ja
+43,2,Familienname,Illi,Kli,2,4,0.5,nein
+43,3,Vorname,Agnes,Agnes,0,5,0.0,ja
+43,4,Heimatsort,Bonnstetten,Bonnstetten,0,11,0.0,ja
+43,5,Land,"""",u.,2,1,2.0,nein
+43,6,Geburtsjahr,1889,1889,0,4,0.0,ja
+43,7,Beruf,Angestellte,Angestellte,0,11,0.0,ja
+43,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+43,9,Eingetreten Jahr Monat Tag,1910 Okt. 1,1910 Okt. 1,0,11,0.0,ja
+43,10,Wohnung Strasse No.,Josefstrasse 110  Frei,Josefstrasse 110,6,22,0.2727,nein
+43,11,Ausgetreten Jahr Monat Tag,1914 Aug. 31,1910 Aug. 31,1,12,0.0833,nein
+43,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+44,1,No,845,845,0,3,0.0,ja
+44,2,Familienname,Waser,Waser,0,5,0.0,ja
+44,3,Vorname,Marie,Marie,0,5,0.0,ja
+44,4,Heimatsort,Wolfenschiessen,Wolffenschiessen,1,15,0.0667,nein
+44,5,Land,"""",u.,2,1,2.0,nein
+44,6,Geburtsjahr,1884,1884,0,4,0.0,ja
+44,7,Beruf,Arbeiterin,Arbeiterin,0,10,0.0,ja
+44,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+44,9,Eingetreten Jahr Monat Tag,1910 Okt. 1,1910 Okt. 1,0,11,0.0,ja
+44,10,Wohnung Strasse No.,Sihlfeldstr. 95 Müller,Sihlfeldstr. 95,7,22,0.3182,nein
+44,11,Ausgetreten Jahr Monat Tag,1912 Apr. 30,1912 April 30.,3,12,0.25,nein
+44,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+45,1,No,846,846,0,3,0.0,ja
+45,2,Familienname,Schielinger,Schiedinger,1,11,0.0909,nein
+45,3,Vorname,Bertha,Bertha,0,6,0.0,ja
+45,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+45,5,Land,"""",u.,2,1,2.0,nein
+45,6,Geburtsjahr,22. II 1894,1894,7,11,0.6364,nein
+45,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+45,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+45,9,Eingetreten Jahr Monat Tag,1910 Okt. 1,1910 Okt. 1,0,11,0.0,ja
+45,10,Wohnung Strasse No.,Badmerstr. 272,Badmerstr. 272,0,14,0.0,ja
+45,11,Ausgetreten Jahr Monat Tag,1913 Aug. 9. ausgetr.,1913. Okt. 9.,13,21,0.619,nein
+45,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+46,1,No,847,847,0,3,0.0,ja
+46,2,Familienname,Portmann,Portmann,0,8,0.0,ja
+46,3,Vorname,Frau,Frau,0,4,0.0,ja
+46,4,Heimatsort,Luzern,Lugern,1,6,0.1667,nein
+46,5,Land,"""",u.,2,1,2.0,nein
+46,6,Geburtsjahr,1881,1881,0,4,0.0,ja
+46,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+46,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+46,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 Okt. 1,5,9,0.5556,nein
+46,10,Wohnung Strasse No.,Winkelriedstr. 27,Zinkelriedstr. 28,2,17,0.1176,nein
+46,11,Ausgetreten Jahr Monat Tag,1910 Dez. 31,1910 Dez. 31,0,12,0.0,ja
+46,12,Bemerkungen des Kontrollbeamten (Art. 12),,nicht eingetreten ✓ Karl Joh. 59 Gymn. Sch.,43,0,43.0,nein
+47,1,No,848,848,0,3,0.0,ja
+47,2,Familienname,Kunz,Kunz,0,4,0.0,ja
+47,3,Vorname,Lina,Lina,0,4,0.0,ja
+47,4,Heimatsort,Winterthur,Winterthur,0,10,0.0,ja
+47,5,Land,"""",u.,2,1,2.0,nein
+47,6,Geburtsjahr,24. IX 1895,1895,7,11,0.6364,nein
+47,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+47,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+47,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 Okt. 1,5,9,0.5556,nein
+47,10,Wohnung Strasse No.,Dienerstr. 8,Dreierstr. 8,2,12,0.1667,nein
+47,11,Ausgetreten Jahr Monat Tag,- - -,—,5,5,1.0,nein
+47,12,Bemerkungen des Kontrollbeamten (Art. 12),nicht eingetreten ✓ Karl Joh. 59 Genosser,✓,40,41,0.9756,nein
+48,1,No,849,849,0,3,0.0,ja
+48,2,Familienname,Mellmann,Mellmann,0,8,0.0,ja
+48,3,Vorname,Magdaline,Magdalene,1,9,0.1111,nein
+48,4,Heimatsort,Düsseldorf Huesbeck,Kreisbech,14,19,0.7368,nein
+48,5,Land,Rheinland,Rheinland,0,9,0.0,ja
+48,6,Geburtsjahr,1883,1883,0,4,0.0,ja
+48,7,Beruf,Arbeiterin,Arbeiterin,0,10,0.0,ja
+48,8,Bisheriger Wohnort,St. Gallen,St. Gallen,0,10,0.0,ja
+48,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 Okt. 1,5,9,0.5556,nein
+48,10,Wohnung Strasse No.,Leonhardstr. 13  Müller,Leonhardstr. 13,8,23,0.3478,nein
+48,11,Ausgetreten Jahr Monat Tag,1911 Jun. 30,1911 Juni 30,1,12,0.0833,nein
+48,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+49,1,No,850,850,0,3,0.0,ja
+49,2,Familienname,Iller,Jeller,2,5,0.4,nein
+49,3,Vorname,Margarete,Margarete,0,9,0.0,ja
+49,4,Heimatsort,Strassburg,Strassburg Dresden,8,10,0.8,nein
+49,5,Land,Elsass,Elsass Deutsch.,9,6,1.5,nein
+49,6,Geburtsjahr,1889,1889,0,4,0.0,ja
+49,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+49,8,Bisheriger Wohnort,Konstanz,Konstanz,0,8,0.0,ja
+49,9,Eingetreten Jahr Monat Tag,"1910 "" 3",1910 Okt. 3,4,8,0.5,nein
+49,10,Wohnung Strasse No.,Engelstrasse 63,Engelstrasse 63,0,15,0.0,ja
+49,11,Ausgetreten Jahr Monat Tag,1911 Aug. 31,1911 Okt. 31,3,12,0.25,nein
+49,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+50,1,No,851,851,0,3,0.0,ja
+50,2,Familienname,Hilbig Fr.,Hilbig gr.,1,10,0.1,nein
+50,3,Vorname,Lina,Lina,0,4,0.0,ja
+50,4,Heimatsort,Dresden Heiden,Heiden,8,14,0.5714,nein
+50,5,Land,Deutsch.,Deutsch.,0,8,0.0,ja
+50,6,Geburtsjahr,1890,1890,0,4,0.0,ja
+50,7,Beruf,,u.,2,0,2.0,nein
+50,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+50,9,Eingetreten Jahr Monat Tag,"1910 "" 3.",1910 Okt. 3,5,9,0.5556,nein
+50,10,Wohnung Strasse No.,Baumackerstr. 50 Oerlikon,Baumackerstr. 60,10,25,0.4,nein
+50,11,Ausgetreten Jahr Monat Tag,1910 Dez. 31,1910 Dez. 31,0,12,0.0,ja
+50,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+51,1,No,852,852,0,3,0.0,ja
+51,2,Familienname,Thiele,Thiele,0,6,0.0,ja
+51,3,Vorname,Paula,Paula,0,5,0.0,ja
+51,4,Heimatsort,Erfurt,Erfurt,0,6,0.0,ja
+51,5,Land,Thüringen,Thüringen,0,9,0.0,ja
+51,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+51,7,Beruf,Arbeiterin,Arbeiterin,0,10,0.0,ja
+51,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+51,9,Eingetreten Jahr Monat Tag,"1910 "" 3",1910 Okt. 3,4,8,0.5,nein
+51,10,Wohnung Strasse No.,Feldst 115 Laden Bäckerstr. 143,Backersstr. 143,19,31,0.6129,nein
+51,11,Ausgetreten Jahr Monat Tag,1911 Mai 23.,1911 Juni 23,4,12,0.3333,nein
+51,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+52,1,No,853,853,0,3,0.0,ja
+52,2,Familienname,Zoller,Zoller,0,6,0.0,ja
+52,3,Vorname,Emilie,Emilie,0,6,0.0,ja
+52,4,Heimatsort,Sargans,Sargens,1,7,0.1429,nein
+52,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+52,6,Geburtsjahr,6. VII 1895,1895,7,11,0.6364,nein
+52,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+52,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+52,9,Eingetreten Jahr Monat Tag,"1910 "" 3",1910 Okt. 3,4,8,0.5,nein
+52,10,Wohnung Strasse No.,Erbachstr. 20,Erbachstr. 20,0,13,0.0,ja
+52,11,Ausgetreten Jahr Monat Tag,1912 Mai. 2.,1912 Mai 2.,1,12,0.0833,nein
+52,12,Bemerkungen des Kontrollbeamten (Art. 12),Alb. 59 Mechaniker,Alb. 59 Mofonikat,6,18,0.3333,nein
+53,1,No,854,854,0,3,0.0,ja
+53,2,Familienname,Grill,Grill,0,5,0.0,ja
+53,3,Vorname,Alwine,Alwine,0,6,0.0,ja
+53,4,Heimatsort,Osterwick Karlsruhe,Karlsruhe,10,19,0.5263,nein
+53,5,Land,Deutsch.,Dekuhl.,5,8,0.625,nein
+53,6,Geburtsjahr,1887,1883,1,4,0.25,nein
+53,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+53,8,Bisheriger Wohnort,Karlsruhe,Karlsruhe,0,9,0.0,ja
+53,9,Eingetreten Jahr Monat Tag,"1910 "" 3.",1910 Okt. 3,5,9,0.5556,nein
+53,10,Wohnung Strasse No.,Zähringerstr. 51,Zähringerstr. 57,1,16,0.0625,nein
+53,11,Ausgetreten Jahr Monat Tag,1913 März 15,1913 März 15,0,12,0.0,ja
+53,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓ Rosa yb Roth 54 Jg. 1,23,0,23.0,nein
+54,1,No,855,855,0,3,0.0,ja
+54,2,Familienname,Rossmann,Rostmann,1,8,0.125,nein
+54,3,Vorname,Rosa,Rosa,0,4,0.0,ja
+54,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+54,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+54,6,Geburtsjahr,13. VII 1892,1893,9,12,0.75,nein
+54,7,Beruf,ang. Verk.,ang. Verk.,0,10,0.0,ja
+54,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+54,9,Eingetreten Jahr Monat Tag,"1910 "" 6.",1910 Okt. 6,5,9,0.5556,nein
+54,10,Wohnung Strasse No.,Motorenstr. 1,Motorstr. 1,2,13,0.1538,nein
+54,11,Ausgetreten Jahr Monat Tag,1914 März 31.,1914 März 31,1,13,0.0769,nein
+54,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Rosa geb. Roth 54 Ehefr.,✓,25,26,0.9615,nein
+55,1,No,856,856,0,3,0.0,ja
+55,2,Familienname,Leuenberger,Leuenberger,0,11,0.0,ja
+55,3,Vorname,Otto,Otto,0,4,0.0,ja
+55,4,Heimatsort,Melchnau,Meilenau Bern,8,8,1.0,nein
+55,5,Land,Bern,u.,4,4,1.0,nein
+55,6,Geburtsjahr,11. IX 1895,1895,7,11,0.6364,nein
+55,7,Beruf,Ausläufer,Ausländer,2,9,0.2222,nein
+55,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+55,9,Eingetreten Jahr Monat Tag,"1910 "" 3",1910 Okt. 3,4,8,0.5,nein
+55,10,Wohnung Strasse No.,Josephstr. 32,Josefstr. 32,2,13,0.1538,nein
+55,11,Ausgetreten Jahr Monat Tag,912 Feb. 10,1912 Feb. 10,1,11,0.0909,nein
+55,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+56,1,No,857,857,0,3,0.0,ja
+56,2,Familienname,Rimmler,Rimmter,1,7,0.1429,nein
+56,3,Vorname,Anna,Anna,0,4,0.0,ja
+56,4,Heimatsort,Kirchheim Heidelberg,Heidelberg,10,20,0.5,nein
+56,5,Land,Bole. Deusch.,Dacht.,10,13,0.7692,nein
+56,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+56,7,Beruf,Contr. B.,Gard. B.,5,9,0.5556,nein
+56,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+56,9,Eingetreten Jahr Monat Tag,"1910 "" 6.",1910 Okt. 6,5,9,0.5556,nein
+56,10,Wohnung Strasse No.,Gerechtigkeitsgasse 26 Hoeschgasse 66,Hoeschgaute 66,25,37,0.6757,nein
+56,11,Ausgetreten Jahr Monat Tag,1911 Sept. 30,1911 Sept. 30,0,13,0.0,ja
+56,12,Bemerkungen des Kontrollbeamten (Art. 12),,—,1,0,1.0,nein
+57,1,No,858,858,0,3,0.0,ja
+57,2,Familienname,Oetiker,Oetiker,0,7,0.0,ja
+57,3,Vorname,Bertha,Bertha,0,6,0.0,ja
+57,4,Heimatsort,Männedorf,Mäimedorf,2,9,0.2222,nein
+57,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+57,6,Geburtsjahr,1895,1895,0,4,0.0,ja
+57,7,Beruf,Lehrtochter,Lehrtochter,0,11,0.0,ja
+57,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+57,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 Okt. 15,4,9,0.4444,nein
+57,10,Wohnung Strasse No.,Nietengasse 5,Nielen gasse 5,2,13,0.1538,nein
+57,11,Ausgetreten Jahr Monat Tag,- - -,—,5,5,1.0,nein
+57,12,Bemerkungen des Kontrollbeamten (Art. 12),nicht eingetreten,nicht eingetreten,0,17,0.0,ja
+58,1,No,859,859,0,3,0.0,ja
+58,2,Familienname,Hetzel,Hetzl,1,6,0.1667,nein
+58,3,Vorname,Alphons,Alphons,0,7,0.0,ja
+58,4,Heimatsort,Oberndorf,Oberndorf,0,9,0.0,ja
+58,5,Land,Württ.berg,Württ. burg,2,10,0.2,nein
+58,6,Geburtsjahr,1889,1889,0,4,0.0,ja
+58,7,Beruf,Angestellter,Angestellter,0,12,0.0,ja
+58,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+58,9,Eingetreten Jahr Monat Tag,"1910 "" 7",1910 Okt. 9,5,8,0.625,nein
+58,10,Wohnung Strasse No.,In Gassen 14 II Herbartstr. 5,Herbertstr. 5,17,29,0.5862,nein
+58,11,Ausgetreten Jahr Monat Tag,1911 Mäz 31,1911 März 31,1,11,0.0909,nein
+58,12,Bemerkungen des Kontrollbeamten (Art. 12),,—,1,0,1.0,nein
+59,1,No,860,860,0,3,0.0,ja
+59,2,Familienname,Hull,Kroll,3,4,0.75,nein
+59,3,Vorname,Bertha,Bertha,0,6,0.0,ja
+59,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+59,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+59,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+59,7,Beruf,Verkäuf.,Verkauf.,1,8,0.125,nein
+59,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+59,9,Eingetreten Jahr Monat Tag,"1910 "" 10",1910 Okt. 10,4,9,0.4444,nein
+59,10,Wohnung Strasse No.,Röthep. 102 Wüthrich Guggachstr. 28,Guggachstr. 38,22,35,0.6286,nein
+59,11,Ausgetreten Jahr Monat Tag,1911 Juni 15,1911 Juni 15,0,12,0.0,ja
+59,12,Bemerkungen des Kontrollbeamten (Art. 12),,—,1,0,1.0,nein
+60,1,No,861,861,0,3,0.0,ja
+60,2,Familienname,Bailer,Bailer,0,6,0.0,ja
+60,3,Vorname,Adolphine,Adolphine,0,9,0.0,ja
+60,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+60,5,Land,"""",u.,2,1,2.0,nein
+60,6,Geburtsjahr,1878,1878,0,4,0.0,ja
+60,7,Beruf,"""",u.,2,1,2.0,nein
+60,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+60,9,Eingetreten Jahr Monat Tag,"1910 "" /",1910 Okt. 1,5,8,0.625,nein
+60,10,Wohnung Strasse No.,Rindermarkt 5,Rindermarkt 5,0,13,0.0,ja
+60,11,Ausgetreten Jahr Monat Tag,1910 Dez. 31.,1910 Dez. 31,1,13,0.0769,nein
+60,12,Bemerkungen des Kontrollbeamten (Art. 12),,—,1,0,1.0,nein
+61,1,No,862,862,0,3,0.0,ja
+61,2,Familienname,Hess,Hess,0,4,0.0,ja
+61,3,Vorname,Albert,Albert,0,6,0.0,ja
+61,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+61,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+61,6,Geburtsjahr,1863,1863,0,4,0.0,ja
+61,7,Beruf,Lagerist,Lagerist,0,8,0.0,ja
+61,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+61,9,Eingetreten Jahr Monat Tag,1910 Okt. 11,1910 Okt. 11,0,12,0.0,ja
+61,10,Wohnung Strasse No.,Sonneggstr. 60,Sonneggstr. 60,0,14,0.0,ja
+61,11,Ausgetreten Jahr Monat Tag,1911 Mai 13.,1911 April 13,5,12,0.4167,nein
+61,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+62,1,No,863,863,0,3,0.0,ja
+62,2,Familienname,Pfeiffer,Pfeiffer,0,8,0.0,ja
+62,3,Vorname,Rosa,Rosa,0,4,0.0,ja
+62,4,Heimatsort,Beggingen,Beggingen Schaffh.,9,9,1.0,nein
+62,5,Land,Schaffh.,Schweiz,5,8,0.625,nein
+62,6,Geburtsjahr,1891,1891,0,4,0.0,ja
+62,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+62,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+62,9,Eingetreten Jahr Monat Tag,"1910 "" 12",1910 . 12,1,9,0.1111,nein
+62,10,Wohnung Strasse No.,Langstrasse 97.,Langstrasse 3,3,15,0.2,nein
+62,11,Ausgetreten Jahr Monat Tag,1910 Okt. 17,1910 Okt. 17,0,12,0.0,ja
+62,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Joh. 58 Schuhmacher,✓ Zoll 58 Nichtsvermerk,12,21,0.5714,nein
+63,1,No,864,864,0,3,0.0,ja
+63,2,Familienname,Herrmann,Herrmann,0,8,0.0,ja
+63,3,Vorname,Adolf,Adolf,0,5,0.0,ja
+63,4,Heimatsort,Rastadt,Rastadt,0,7,0.0,ja
+63,5,Land,Baden,Baden,0,5,0.0,ja
+63,6,Geburtsjahr,1887,1883,1,4,0.25,nein
+63,7,Beruf,Verkäufer,Verkäufer,0,9,0.0,ja
+63,8,Bisheriger Wohnort,München,München,0,7,0.0,ja
+63,9,Eingetreten Jahr Monat Tag,1910 Okt. 15,1910 Okt. 15,0,12,0.0,ja
+63,10,Wohnung Strasse No.,Kühnegasse 2 Hampp. Rennweg 37,Bennweg 33,22,30,0.7333,nein
+63,11,Ausgetreten Jahr Monat Tag,1911 Okt. 1,1911 Okt. 1,0,11,0.0,ja
+63,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+64,1,No,865,865,0,3,0.0,ja
+64,2,Familienname,Meier,Meier,0,5,0.0,ja
+64,3,Vorname,Rosa,Rosa,0,4,0.0,ja
+64,4,Heimatsort,Strengelbach,Strengelbach Aargau,7,12,0.5833,nein
+64,5,Land,Aargau,Schweiz,7,6,1.1667,nein
+64,6,Geburtsjahr,1883,1883,0,4,0.0,ja
+64,7,Beruf,""" """,✓,3,3,1.0,nein
+64,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+64,9,Eingetreten Jahr Monat Tag,"1910 "" 17.",1910 . 19,3,10,0.3,nein
+64,10,Wohnung Strasse No.,Kreuzstrasse 11,Kreuzstrasse 11,0,15,0.0,ja
+64,11,Ausgetreten Jahr Monat Tag,1912 Okt. 30,1912 Okt. 30,0,12,0.0,ja
+64,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+65,1,No,866,866,0,3,0.0,ja
+65,2,Familienname,Oechslin,Oechslin,0,8,0.0,ja
+65,3,Vorname,Elise,Elise,0,5,0.0,ja
+65,4,Heimatsort,Kentersheim Regensburg,Regensburg,12,22,0.5455,nein
+65,5,Land,Bayern,Bayern,0,6,0.0,ja
+65,6,Geburtsjahr,1884,1884,0,4,0.0,ja
+65,7,Beruf,""" """,✓,3,3,1.0,nein
+65,8,Bisheriger Wohnort,St. Gallen,St. Gallen,0,10,0.0,ja
+65,9,Eingetreten Jahr Monat Tag,"1910 "" 17.",1910 . 19,3,10,0.3,nein
+65,10,Wohnung Strasse No.,Anwandstr. 9 Morier,Gewandstr. 9/10,9,19,0.4737,nein
+65,11,Ausgetreten Jahr Monat Tag,1911 März 15.,1911 März 15,1,13,0.0769,nein
+65,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓ Landes 66 Zügig Nord-Haftung,29,1,29.0,nein
+66,1,No,867,867,0,3,0.0,ja
+66,2,Familienname,Röber,Röber,0,5,0.0,ja
+66,3,Vorname,Frieda,Frieda,0,6,0.0,ja
+66,4,Heimatsort,Könnern,Könnern,0,7,0.0,ja
+66,5,Land,Bremen,Preussen,4,6,0.6667,nein
+66,6,Geburtsjahr,1. II 1891,1891,6,10,0.6,nein
+66,7,Beruf,Angestellte,Angestellte,0,11,0.0,ja
+66,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+66,9,Eingetreten Jahr Monat Tag,"1906 März 1. - 1910 "" 19",1910 . 19,16,24,0.6667,nein
+66,10,Wohnung Strasse No.,15.5.1910 Schletrusse 1,Sihlstrasse 48,15,23,0.6522,nein
+66,11,Ausgetreten Jahr Monat Tag,Praktikantin dahr angestellt vide neue 3703,1912 Okt. 12,40,43,0.9302,nein
+66,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Linder 66 Heizer u. Motorfahrer,✓ Stefinter und 1917. Ein,26,33,0.7879,nein
+67,1,No,868,868,0,3,0.0,ja
+67,2,Familienname,Benz.,Rein,4,5,0.8,nein
+67,3,Vorname,Xaver.,Haver.,1,6,0.1667,nein
+67,4,Heimatsort,Amt. Elchingen.,Mut. Elchingen,3,15,0.2,nein
+67,5,Land,Bayern,Baden,2,6,0.3333,nein
+67,6,Geburtsjahr,1873,1873,0,4,0.0,ja
+67,7,Beruf,Linol. L.,Kivol. L.,2,9,0.2222,nein
+67,8,Bisheriger Wohnort,Zürch,Zürich,1,5,0.2,nein
+67,9,Eingetreten Jahr Monat Tag,"1910 "" 25",1910 . 25,1,9,0.1111,nein
+67,10,Wohnung Strasse No.,Rennweg 24,Rennweg 24,0,10,0.0,ja
+67,11,Ausgetreten Jahr Monat Tag,1914 Sept. 12,1912 Okt. 12,4,13,0.3077,nein
+67,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ acfimter auch 1917 V12,✓,23,24,0.9583,nein
+68,1,No,869,869,0,3,0.0,ja
+68,2,Familienname,Maurer,Maurer,0,6,0.0,ja
+68,3,Vorname,Heinrich,Heinrich,0,8,0.0,ja
+68,4,Heimatsort,Winterthur,Hinterthür,2,10,0.2,nein
+68,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+68,6,Geburtsjahr,30.8 1885,1885,5,9,0.5556,nein
+68,7,Beruf,Maschinist,Maschinist,0,10,0.0,ja
+68,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+68,9,Eingetreten Jahr Monat Tag,"1910 "" 31",1910 . 31,1,9,0.1111,nein
+68,10,Wohnung Strasse No.,Wertstrasse 104,Weidstrasse 104,2,15,0.1333,nein
+68,11,Ausgetreten Jahr Monat Tag,,1910 Dez. 51,12,0,12.0,nein
+68,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,,1,1,1.0,nein
+69,1,No,870,870,0,3,0.0,ja
+69,2,Familienname,Eisenlan,Eisenlan,0,8,0.0,ja
+69,3,Vorname,Karl,Karl,0,4,0.0,ja
+69,4,Heimatsort,Stuttgart,Stuttgart,0,9,0.0,ja
+69,5,Land,Deutschl.,Deutschl.,0,9,0.0,ja
+69,6,Geburtsjahr,1889,1886,1,4,0.25,nein
+69,7,Beruf,Linoll.,Linoll.,0,7,0.0,ja
+69,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+69,9,Eingetreten Jahr Monat Tag,1910 Nov. 1.,1910 Nov. 1,1,12,0.0833,nein
+69,10,Wohnung Strasse No.,Winterthurerstr. 94,Winterthurerstr. 94,0,19,0.0,ja
+69,11,Ausgetreten Jahr Monat Tag,1910 Dez. 31,1910 Dez. 51,1,12,0.0833,nein
+69,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+70,1,No,871,871,0,3,0.0,ja
+70,2,Familienname,Beruer,Berner,1,6,0.1667,nein
+70,3,Vorname,Gottlob.,Gottlob.,0,8,0.0,ja
+70,4,Heimatsort,Altdorf  / Würt.,Altendorf/Württ.,6,16,0.375,nein
+70,5,Land,"""",Schweiz,7,1,7.0,nein
+70,6,Geburtsjahr,1880,1880,0,4,0.0,ja
+70,7,Beruf,"""",✓,1,1,1.0,nein
+70,8,Bisheriger Wohnort,Neuhausen,Neubauern,3,9,0.3333,nein
+70,9,Eingetreten Jahr Monat Tag,"1910 "" 11",1910 . 11,1,9,0.1111,nein
+70,10,Wohnung Strasse No.,Rotwandstr. 67. Hohlstrasse 37,Höchstrasse 39,20,30,0.6667,nein
+70,11,Ausgetreten Jahr Monat Tag,1910 Dez. 7.,1910 Dez. 51,2,12,0.1667,nein
+70,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+71,1,No,872,872,0,3,0.0,ja
+71,2,Familienname,Stelzer,Stelzer,0,7,0.0,ja
+71,3,Vorname,Karl. Paul,Karl Paul,1,10,0.1,nein
+71,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+71,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+71,6,Geburtsjahr,1880,1880,0,4,0.0,ja
+71,7,Beruf,"""",✓,1,1,1.0,nein
+71,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+71,9,Eingetreten Jahr Monat Tag,"1910 "" 1",1910 . 1,1,8,0.125,nein
+71,10,Wohnung Strasse No.,Kruggasse 7,Kreuzgasse 5,3,11,0.2727,nein
+71,11,Ausgetreten Jahr Monat Tag,"1910 "" 31",1910 . 31,1,9,0.1111,nein
+71,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+72,1,No,873,873,0,3,0.0,ja
+72,2,Familienname,Jörlitz,Törlitz,1,7,0.1429,nein
+72,3,Vorname,Fritz,Fritz.,1,5,0.2,nein
+72,4,Heimatsort,Spandau  / Berl,Spandau/Berl,3,15,0.2,nein
+72,5,Land,,Schweiz,7,0,7.0,nein
+72,6,Geburtsjahr,1887,1885,1,4,0.25,nein
+72,7,Beruf,"""",✓,1,1,1.0,nein
+72,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+72,9,Eingetreten Jahr Monat Tag,"1910 """,1910 . 15,4,6,0.6667,nein
+72,10,Wohnung Strasse No.,Hohlstrassse 212,Hohlstrasse 212,1,16,0.0625,nein
+72,11,Ausgetreten Jahr Monat Tag,"1910 "" 31",1910 . 31,1,9,0.1111,nein
+72,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+73,1,No,874,874,0,3,0.0,ja
+73,2,Familienname,Muniola,Minniola,2,7,0.2857,nein
+73,3,Vorname,Theresia,Theresia,0,8,0.0,ja
+73,4,Heimatsort,Thelare Tirol,Belve. Tirol,5,13,0.3846,nein
+73,5,Land,Österreich,Österreich,0,10,0.0,ja
+73,6,Geburtsjahr,11. I 1894,1894,6,10,0.6,nein
+73,7,Beruf,Lehrtochter,Lehrbetätster,5,11,0.4545,nein
+73,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+73,9,Eingetreten Jahr Monat Tag,"1910 "" 15",1910 . 15,1,9,0.1111,nein
+73,10,Wohnung Strasse No.,Wertstrasse 181,Weidstrasse 181,2,15,0.1333,nein
+73,11,Ausgetreten Jahr Monat Tag,1912 Juli 7,1912 Juli 7,0,11,0.0,ja
+73,12,Bemerkungen des Kontrollbeamten (Art. 12),Gideone 54 Wergaz.,✓ Gedeone 54 Murgp. 1912,12,18,0.6667,nein
+74,1,No,875,875,0,3,0.0,ja
+74,2,Familienname,Scholl,Scholl,0,6,0.0,ja
+74,3,Vorname,Arnold,Arnold,0,6,0.0,ja
+74,4,Heimatsort,Bieterle / Bern,Bieterle/Bern,2,15,0.1333,nein
+74,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+74,6,Geburtsjahr,1865,1865,0,4,0.0,ja
+74,7,Beruf,Packer,Bäcker,2,6,0.3333,nein
+74,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+74,9,Eingetreten Jahr Monat Tag,"1910 "" 14",1910 . 14,1,9,0.1111,nein
+74,10,Wohnung Strasse No.,Zellgstrasse 27,Zellgasse 25,4,15,0.2667,nein
+74,11,Ausgetreten Jahr Monat Tag,1914 März 21,1914 März 21,0,12,0.0,ja
+74,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+75,1,No,876,876,0,3,0.0,ja
+75,2,Familienname,Ege,Gee,2,3,0.6667,nein
+75,3,Vorname,Hedwig,Hedwig,0,6,0.0,ja
+75,4,Heimatsort,Reinsingen W.,Rüngingen/Württ.,8,13,0.6154,nein
+75,5,Land,Württemberg,Württemberg,0,11,0.0,ja
+75,6,Geburtsjahr,1892,1892,0,4,0.0,ja
+75,7,Beruf,"""",✓,1,1,1.0,nein
+75,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+75,9,Eingetreten Jahr Monat Tag,"1910 "" 16.",1910 . 16,2,10,0.2,nein
+75,10,Wohnung Strasse No.,Schreinerstr. 59,Schreinerstr. 57,1,16,0.0625,nein
+75,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24,1910 Dez. 24,0,12,0.0,ja
+75,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+76,1,No,877,877,0,3,0.0,ja
+76,2,Familienname,Lerch,Lorch,1,5,0.2,nein
+76,3,Vorname,Elsa,Elsa,0,4,0.0,ja
+76,4,Heimatsort,Hausen,Hausen,0,6,0.0,ja
+76,5,Land,"""",Schweiz,7,1,7.0,nein
+76,6,Geburtsjahr,31. XII 1890,1890,8,12,0.6667,nein
+76,7,Beruf,Versand.,Personale,5,8,0.625,nein
+76,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+76,9,Eingetreten Jahr Monat Tag,"1910 "" 21",1910 . 21,1,9,0.1111,nein
+76,10,Wohnung Strasse No.,Neumarkt 7,Pennmarkstr. 7,6,10,0.6,nein
+76,11,Ausgetreten Jahr Monat Tag,1912 Jan 7.,1912 Jan. 7,2,11,0.1818,nein
+76,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Mathias 56 Schuster,✓ Marchis 56 Nichtsvermerk,11,21,0.5238,nein
+77,1,No,878,878,0,3,0.0,ja
+77,2,Familienname,Brunner,Brunner,0,7,0.0,ja
+77,3,Vorname,Louise.,Louise,1,7,0.1429,nein
+77,4,Heimatsort,Hohentauen,Hofhentenau,5,10,0.5,nein
+77,5,Land,Schweiz.,Schweiz,1,8,0.125,nein
+77,6,Geburtsjahr,7 XI 1890,1890,5,9,0.5556,nein
+77,7,Beruf,Wissnäherin,Weissmäherin,2,11,0.1818,nein
+77,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+77,9,Eingetreten Jahr Monat Tag,1910,1910 . 21,5,4,1.25,nein
+77,10,Wohnung Strasse No.,Centralstr. 37,Centralstr. 35,1,14,0.0714,nein
+77,11,Ausgetreten Jahr Monat Tag,1910 Nov. 21,1910 Nov. 21,0,12,0.0,ja
+77,12,Bemerkungen des Kontrollbeamten (Art. 12),Joh. Georg 47 Schreiner,✓ Jäh Georg 49 Ophr. 1912,13,23,0.5652,nein
+78,1,No,819,879,1,3,0.3333,nein
+78,2,Familienname,Basler,Basler,0,6,0.0,ja
+78,3,Vorname,Elle,Elle,0,4,0.0,ja
+78,4,Heimatsort,Thalheim.,Thalheim,1,9,0.1111,nein
+78,5,Land,"""",Schweiz,7,1,7.0,nein
+78,6,Geburtsjahr,1893,1893,0,4,0.0,ja
+78,7,Beruf,Verkäuferin,Verkäuferin,0,11,0.0,ja
+78,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+78,9,Eingetreten Jahr Monat Tag,1910. Dez. 1,1910 Dez. 1,1,12,0.0833,nein
+78,10,Wohnung Strasse No.,Glasmalerstr. 5,Glaswalderstr. 5,2,15,0.1333,nein
+78,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24,1910 Dez. 24,0,12,0.0,ja
+78,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+79,1,No,880,880,0,3,0.0,ja
+79,2,Familienname,Haramulova,Haramulova,0,10,0.0,ja
+79,3,Vorname,Rozena Eugene,Eugenie,8,13,0.6154,nein
+79,4,Heimatsort,Prag,Prag,0,4,0.0,ja
+79,5,Land,Csters.,Czehoslow.,7,7,1.0,nein
+79,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+79,7,Beruf,"""",✓,1,1,1.0,nein
+79,8,Bisheriger Wohnort,"""",Zürich,6,1,6.0,nein
+79,9,Eingetreten Jahr Monat Tag,1910 Nov. 24,1910 Nov. 24,0,12,0.0,ja
+79,10,Wohnung Strasse No.,Hörzendorfer Pfalzgasse 101,Pfalzgasse 101,13,27,0.4815,nein
+79,11,Ausgetreten Jahr Monat Tag,1913 Feb. 28,1913 Feb. 25,1,12,0.0833,nein
+79,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+80,1,No,881,881,0,3,0.0,ja
+80,2,Familienname,Tobler -Gyr.,Tobler-Gyr.,1,12,0.0833,nein
+80,3,Vorname,,,0,0,0.0,ja
+80,4,Heimatsort,,,0,0,0.0,ja
+80,5,Land,"""",,1,1,1.0,nein
+80,6,Geburtsjahr,,,0,0,0.0,ja
+80,7,Beruf,"""",,1,1,1.0,nein
+80,8,Bisheriger Wohnort,"""",,1,1,1.0,nein
+80,9,Eingetreten Jahr Monat Tag,"1910 "" 23",1910 . 23,1,9,0.1111,nein
+80,10,Wohnung Strasse No.,,,0,0,0.0,ja
+80,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24,1910 Dez. 24,0,12,0.0,ja
+80,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+81,1,No,882,882,0,3,0.0,ja
+81,2,Familienname,Kielholz,Kielholz,0,8,0.0,ja
+81,3,Vorname,Julius.,Sulius.,1,7,0.1429,nein
+81,4,Heimatsort,Mettau.,Mettain.,2,7,0.2857,nein
+81,5,Land,Schweiz,Schweiz.,1,7,0.1429,nein
+81,6,Geburtsjahr,1876,1836,1,4,0.25,nein
+81,7,Beruf,Packer,Packer,0,6,0.0,ja
+81,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+81,9,Eingetreten Jahr Monat Tag,1910 Nov. 24,1910 Nov. 24,0,12,0.0,ja
+81,10,Wohnung Strasse No.,Zäunerstr. 7.,Kämmnerstr. 3.,4,13,0.3077,nein
+81,11,Ausgetreten Jahr Monat Tag,1911 Jan. 28,1911 Jan. 28,0,12,0.0,ja
+81,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+82,1,No,883,883,0,3,0.0,ja
+82,2,Familienname,Roth,Roth,0,4,0.0,ja
+82,3,Vorname,Jakob.,Jakob.,0,6,0.0,ja
+82,4,Heimatsort,Roggwyl,Roggwyl,0,7,0.0,ja
+82,5,Land,"""",„,1,1,1.0,nein
+82,6,Geburtsjahr,19 II 1895,1895,6,10,0.6,nein
+82,7,Beruf,Liftier,Liftier,0,7,0.0,ja
+82,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+82,9,Eingetreten Jahr Monat Tag,"1910 "" 28",1910 „ 28,1,9,0.1111,nein
+82,10,Wohnung Strasse No.,Höngergasse 6,Shöngergasse 6,2,13,0.1538,nein
+82,11,Ausgetreten Jahr Monat Tag,1911 März,1911 März,0,9,0.0,ja
+82,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Jak. 70 Coiffeur.,✓ JAK 70 Conf. 2,9,19,0.4737,nein
+83,1,No,884,884,0,3,0.0,ja
+83,2,Familienname,Basler,Basler,0,6,0.0,ja
+83,3,Vorname,Elle.,Ellz.,1,5,0.2,nein
+83,4,Heimatsort,Thalheim,Thalheim,0,8,0.0,ja
+83,5,Land,"""",„,1,1,1.0,nein
+83,6,Geburtsjahr,,„,1,0,1.0,nein
+83,7,Beruf,Verk.,Perk.,1,5,0.2,nein
+83,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+83,9,Eingetreten Jahr Monat Tag,1910 Dez. 1.,1910 Dez. 1.,0,12,0.0,ja
+83,10,Wohnung Strasse No.,Glasmalerstr. 5,Glasmalersstr. 3,2,15,0.1333,nein
+83,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24.,1910 Dez. 24,1,13,0.0769,nein
+83,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+84,1,No,885,885,0,3,0.0,ja
+84,2,Familienname,Kern,Kern,0,4,0.0,ja
+84,3,Vorname,Martha,Martha,0,6,0.0,ja
+84,4,Heimatsort,Winterthur,Winterthur,0,10,0.0,ja
+84,5,Land,"""",„,1,1,1.0,nein
+84,6,Geburtsjahr,,„,1,0,1.0,nein
+84,7,Beruf,"""",„,1,1,1.0,nein
+84,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+84,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 „ 1.,1,9,0.1111,nein
+84,10,Wohnung Strasse No.,Rudolfstr. 3. Wthur,Rudolfstr. 3. Wthier,2,19,0.1053,nein
+84,11,Ausgetreten Jahr Monat Tag,""" "" """,„,5,5,1.0,nein
+84,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+85,1,No,886,886,0,3,0.0,ja
+85,2,Familienname,Hudelmaier,Hudelmaier,0,10,0.0,ja
+85,3,Vorname,Frau,Frau,0,4,0.0,ja
+85,4,Heimatsort,Köln,Köln,0,4,0.0,ja
+85,5,Land,Preussen,Preussen,0,8,0.0,ja
+85,6,Geburtsjahr,,„,1,0,1.0,nein
+85,7,Beruf,"""",„,1,1,1.0,nein
+85,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+85,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 „ 1.,1,9,0.1111,nein
+85,10,Wohnung Strasse No.,Kirchgasse 30,Kirchgasse 30,0,13,0.0,ja
+85,11,Ausgetreten Jahr Monat Tag,""" "" """,„,5,5,1.0,nein
+85,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+86,1,No,887,887,0,3,0.0,ja
+86,2,Familienname,Egli,Egli,0,4,0.0,ja
+86,3,Vorname,Ida,Sda,1,3,0.3333,nein
+86,4,Heimatsort,Ronselhofen Wyl,Brommelhofen,8,15,0.5333,nein
+86,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+86,6,Geburtsjahr,1889,1880,1,4,0.25,nein
+86,7,Beruf,Versand,Persana,2,7,0.2857,nein
+86,8,Bisheriger Wohnort,Basel.,Basel,1,6,0.1667,nein
+86,9,Eingetreten Jahr Monat Tag,"1910 "" 1.",1910 „ 1.,1,9,0.1111,nein
+86,10,Wohnung Strasse No.,Rütschitstr. 12,Rutschstr. 12.,4,15,0.2667,nein
+86,11,Ausgetreten Jahr Monat Tag,1910 Sept. 30,1910 Sept. 30,0,13,0.0,ja
+86,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+87,1,No,888,888,0,3,0.0,ja
+87,2,Familienname,Spiro,Spiro,0,5,0.0,ja
+87,3,Vorname,Erich,Erich.,1,5,0.2,nein
+87,4,Heimatsort,Danzig,Danzig,0,6,0.0,ja
+87,5,Land,"""",„,1,1,1.0,nein
+87,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+87,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+87,8,Bisheriger Wohnort,Danzig,Danzig,0,6,0.0,ja
+87,9,Eingetreten Jahr Monat Tag,"1910 "" 2.",1910 „ 2.,1,9,0.1111,nein
+87,10,Wohnung Strasse No.,Bahnhofstr. 56. Hotel Royal,Bahnhofstr. 56.,12,27,0.4444,nein
+87,11,Ausgetreten Jahr Monat Tag,1910 Dez. 10.,1910 Dez. 10.,0,13,0.0,ja
+87,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+88,1,No,889,889,0,3,0.0,ja
+88,2,Familienname,Diegelmann,Diegelmann,0,10,0.0,ja
+88,3,Vorname,Ernst,Ernst,0,5,0.0,ja
+88,4,Heimatsort,Päffikon,Wagdikon,4,8,0.5,nein
+88,5,Land,"""",„,1,1,1.0,nein
+88,6,Geburtsjahr,1874,1834,1,4,0.25,nein
+88,7,Beruf,Linol.,Liniol.,1,6,0.1667,nein
+88,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+88,9,Eingetreten Jahr Monat Tag,1910,1910 Nov. 21.,9,4,2.25,nein
+88,10,Wohnung Strasse No.,Stampfenbachstr. 9,Stauffenbachstr.,4,18,0.2222,nein
+88,11,Ausgetreten Jahr Monat Tag,1911 Jan. 11.,1911 Jan. 11.,0,13,0.0,ja
+88,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+89,1,No,890,890,0,3,0.0,ja
+89,2,Familienname,Kessler,Kessler,0,7,0.0,ja
+89,3,Vorname,Warg.,Marz.,2,5,0.4,nein
+89,4,Heimatsort,Rostock,Rostock.,1,7,0.1429,nein
+89,5,Land,Meklenb.,Mecklenb.,1,8,0.125,nein
+89,6,Geburtsjahr,1893,1893,0,4,0.0,ja
+89,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+89,8,Bisheriger Wohnort,Luzern,Luzern,0,6,0.0,ja
+89,9,Eingetreten Jahr Monat Tag,1910 Dez. 7.,1910 Dez. 3.,1,12,0.0833,nein
+89,10,Wohnung Strasse No.,Marthahaus,Marthahaus.,1,10,0.1,nein
+89,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24,1910 Dez. 24,0,12,0.0,ja
+89,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+90,1,No,891,891,0,3,0.0,ja
+90,2,Familienname,Koslick,Koslick,0,7,0.0,ja
+90,3,Vorname,Wilhelm,Wilhelm,0,7,0.0,ja
+90,4,Heimatsort,Cottlus,Cottbus,1,7,0.1429,nein
+90,5,Land,Prss.,Preuss.,2,5,0.4,nein
+90,6,Geburtsjahr,1876,1836,1,4,0.25,nein
+90,7,Beruf,Packer,Packer,0,6,0.0,ja
+90,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+90,9,Eingetreten Jahr Monat Tag,"1910 "" 7",1910 „ 7,1,8,0.125,nein
+90,10,Wohnung Strasse No.,Dubstrasse 29.,Dubstrasse 29.,0,14,0.0,ja
+90,11,Ausgetreten Jahr Monat Tag,1914 Aug. 27,1914 Aug. 29.,2,12,0.1667,nein
+90,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+91,1,No,892,892,0,3,0.0,ja
+91,2,Familienname,Duttwyler,Duttwyler,0,9,0.0,ja
+91,3,Vorname,Frau,Frau,0,4,0.0,ja
+91,4,Heimatsort,Ab. Weningen,Ob. Veringen,3,12,0.25,nein
+91,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+91,6,Geburtsjahr,1875,1875,0,4,0.0,ja
+91,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+91,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+91,9,Eingetreten Jahr Monat Tag,"1910 "" 12",1910 „ 12,1,9,0.1111,nein
+91,10,Wohnung Strasse No.,Altstetten.,Altstetten,1,11,0.0909,nein
+91,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24,1910 Dez. 24,0,12,0.0,ja
+91,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+92,1,No,893,893,0,3,0.0,ja
+92,2,Familienname,Voneschen,Bonescher,2,9,0.2222,nein
+92,3,Vorname,Hilda,Hilda,0,5,0.0,ja
+92,4,Heimatsort,Felsberg,Felsberg,0,8,0.0,ja
+92,5,Land,Graubb.,Braunb.,2,7,0.2857,nein
+92,6,Geburtsjahr,1881,1881,0,4,0.0,ja
+92,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+92,8,Bisheriger Wohnort,Heiden,Heiden,0,6,0.0,ja
+92,9,Eingetreten Jahr Monat Tag,1911 Febr. 1.,1911 Febr. 1.,0,13,0.0,ja
+92,10,Wohnung Strasse No.,Universitätstr. 31,Universitätsstr.,4,18,0.2222,nein
+92,11,Ausgetreten Jahr Monat Tag,1930 Sept. 7.,1911 Sept. 7.,2,13,0.1538,nein
+92,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+93,1,No,894,894,0,3,0.0,ja
+93,2,Familienname,Bruder,Bruder,0,6,0.0,ja
+93,3,Vorname,Fritz,Britz,1,5,0.2,nein
+93,4,Heimatsort,Freudenstadt,Freudenstadt,0,12,0.0,ja
+93,5,Land,"""",„,1,1,1.0,nein
+93,6,Geburtsjahr,1871,1871,0,4,0.0,ja
+93,7,Beruf,Packer,Packer,0,6,0.0,ja
+93,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+93,9,Eingetreten Jahr Monat Tag,1919 Dez. 14,1910 Dez. 14.,2,12,0.1667,nein
+93,10,Wohnung Strasse No.,Zwinglistr. 39,Zwinglistr. 39,0,14,0.0,ja
+93,11,Ausgetreten Jahr Monat Tag,1911 ausgetreten,1911 ausgetreten,0,16,0.0,ja
+93,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+94,1,No,895,895,0,3,0.0,ja
+94,2,Familienname,Amstein,Amstein,0,7,0.0,ja
+94,3,Vorname,Nina,Pina,1,4,0.25,nein
+94,4,Heimatsort,Willisau,Willisau,0,8,0.0,ja
+94,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+94,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+94,7,Beruf,Verk.,Perk.,1,5,0.2,nein
+94,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+94,9,Eingetreten Jahr Monat Tag,"1910 "" 19",1910 „ 19,1,9,0.1111,nein
+94,10,Wohnung Strasse No.,Schindlerstr. 22,Schindlerstr. 22,0,16,0.0,ja
+94,11,Ausgetreten Jahr Monat Tag,1910 Dez. 24,1910 Dez. 24,0,12,0.0,ja
+94,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+95,1,No,896,896,0,3,0.0,ja
+95,2,Familienname,Gloor,Glaor,1,5,0.2,nein
+95,3,Vorname,Marie,Marie,0,5,0.0,ja
+95,4,Heimatsort,Aarau,Aarau,0,5,0.0,ja
+95,5,Land,"""",„,1,1,1.0,nein
+95,6,Geburtsjahr,1894,1892,1,4,0.25,nein
+95,7,Beruf,Contr. B.,Boutr. B.,2,9,0.2222,nein
+95,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+95,9,Eingetreten Jahr Monat Tag,"1910 "" 22",1910 „ 22,1,9,0.1111,nein
+95,10,Wohnung Strasse No.,Huttelgasse 10.,Kuttelgasse 10.,1,15,0.0667,nein
+95,11,Ausgetreten Jahr Monat Tag,1910 Jan. 5,1910 Jan. 5,0,11,0.0,ja
+95,12,Bemerkungen des Kontrollbeamten (Art. 12),,„,1,0,1.0,nein
+96,1,No,897,897,0,3,0.0,ja
+96,2,Familienname,Huber,Stuber,2,5,0.4,nein
+96,3,Vorname,Olga,Olga,0,4,0.0,ja
+96,4,Heimatsort,Pfowyl,Prowyl,1,6,0.1667,nein
+96,5,Land,"""",„,1,1,1.0,nein
+96,6,Geburtsjahr,1889,1888,1,4,0.25,nein
+96,7,Beruf,Verk.,Verk.,0,5,0.0,ja
+96,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+96,9,Eingetreten Jahr Monat Tag,"1910 "" 23",1910 „ 23,1,9,0.1111,nein
+96,10,Wohnung Strasse No.,Nordstr. 15 Zeller,Nordstr. 15,7,18,0.3889,nein
+96,11,Ausgetreten Jahr Monat Tag,1911 März 1.,1911 März 1.,0,12,0.0,ja
+96,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+97,1,No,898,898,0,3,0.0,ja
+97,2,Familienname,Hardt.,Hardt.,0,6,0.0,ja
+97,3,Vorname,Helene,Helene,0,6,0.0,ja
+97,4,Heimatsort,Darmstadt,Darmstadt.,1,9,0.1111,nein
+97,5,Land,Deutsch.,Deutsch.,0,8,0.0,ja
+97,6,Geburtsjahr,1884,1884,0,4,0.0,ja
+97,7,Beruf,"""",„,1,1,1.0,nein
+97,8,Bisheriger Wohnort,Köln.,Köln,1,5,0.2,nein
+97,9,Eingetreten Jahr Monat Tag,1911 Jan 1.,1911 Jan. 1.,1,11,0.0909,nein
+97,10,Wohnung Strasse No.,Leonhardstr. 8 Schuler,Leonhardstr. 8,8,22,0.3636,nein
+97,11,Ausgetreten Jahr Monat Tag,1913 April 30,1913 April 30,0,13,0.0,ja
+97,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+98,1,No,899,899,0,3,0.0,ja
+98,2,Familienname,Mooren,Kooren,1,6,0.1667,nein
+98,3,Vorname,Wilhelmine,Wilhelmine,0,10,0.0,ja
+98,4,Heimatsort,Wachtendorf Essen Ruhr,Edder Ruhr,15,22,0.6818,nein
+98,5,Land,"""",„,1,1,1.0,nein
+98,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+98,7,Beruf,"""",„,1,1,1.0,nein
+98,8,Bisheriger Wohnort,Mannheim,Mannheim,0,8,0.0,ja
+98,9,Eingetreten Jahr Monat Tag,"1911 "" 1.",1911 „ 1.,1,9,0.1111,nein
+98,10,Wohnung Strasse No.,Jakobstrasse 39,Sakralstrasse 39,4,15,0.2667,nein
+98,11,Ausgetreten Jahr Monat Tag,1911 Nov. 30,1911 Nov. 30,0,12,0.0,ja
+98,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Jos 83 H. Maler,✓ Zus. 83 H. Müller,5,17,0.2941,nein
+99,1,No,900,900,0,3,0.0,ja
+99,2,Familienname,Schuhmacher,Schuhmacher,0,11,0.0,ja
+99,3,Vorname,Elise.,Elise.,0,6,0.0,ja
+99,4,Heimatsort,Affoltern Zrch,Oppeltern Jülich,8,14,0.5714,nein
+99,5,Land,"""",„,1,1,1.0,nein
+99,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+99,7,Beruf,Teleph.,Teleph.,0,7,0.0,ja
+99,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+99,9,Eingetreten Jahr Monat Tag,"1911 "" 16.",1911 „ 16.,1,10,0.1,nein
+99,10,Wohnung Strasse No.,Nordstrasse 156,Forststrasse 156,3,15,0.2,nein
+99,11,Ausgetreten Jahr Monat Tag,1912 Aug. 31,1912 Aug. 31,0,12,0.0,ja
+99,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+100,1,No,901,901,0,3,0.0,ja
+100,2,Familienname,Kümmin,Mümmrin,2,6,0.3333,nein
+100,3,Vorname,Marie,Mauri,2,5,0.4,nein
+100,4,Heimatsort,Wallerau,Walloran,2,8,0.25,nein
+100,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+100,6,Geburtsjahr,20. III 1895,1845,9,12,0.75,nein
+100,7,Beruf,Postk.,Postk.,0,6,0.0,ja
+100,8,Bisheriger Wohnort,"""",„,1,1,1.0,nein
+100,9,Eingetreten Jahr Monat Tag,"1911 "" 18",1911 „ 18,1,9,0.1111,nein
+100,10,Wohnung Strasse No.,Burgweg 8,Burgweg 8,0,9,0.0,ja
+100,11,Ausgetreten Jahr Monat Tag,1911 Mai 1.,1911 Nov. 1.,4,11,0.3636,nein
+100,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Jol 56 Schumacher,✓ Tolsto Schriftsteller,13,19,0.6842,nein
+101,1,No,902,902,0,3,0.0,ja
+101,2,Familienname,Ostermann,Lüthmann,4,9,0.4444,nein
+101,3,Vorname,Helene.,Helene,1,7,0.1429,nein
+101,4,Heimatsort,Yera / Reus,Gera / Raus,2,11,0.1818,nein
+101,5,Land,Dtsch.,S. W.,5,6,0.8333,nein
+101,6,Geburtsjahr,1883,1883,0,4,0.0,ja
+101,7,Beruf,Verk.,Per.K.,3,5,0.6,nein
+101,8,Bisheriger Wohnort,Altstetten,Attelitten,4,10,0.4,nein
+101,9,Eingetreten Jahr Monat Tag,1911 Jan 18,1911 Jan. 18,1,11,0.0909,nein
+101,10,Wohnung Strasse No.,Altstetten,Attelitten,4,10,0.4,nein
+101,11,Ausgetreten Jahr Monat Tag,1912 Sept. 30.,1912 Sept. 30,1,14,0.0714,nein
+101,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+102,1,No,903,903,0,3,0.0,ja
+102,2,Familienname,Hirt,Hirt,0,4,0.0,ja
+102,3,Vorname,Hermine,Hermine,0,7,0.0,ja
+102,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+102,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+102,6,Geburtsjahr,1885,1883,1,4,0.25,nein
+102,7,Beruf,"""",u.,2,1,2.0,nein
+102,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+102,9,Eingetreten Jahr Monat Tag,"1911 "" """,1911 u. 18,4,8,0.5,nein
+102,10,Wohnung Strasse No.,Josefstr. 91 Jesusstrasse 91,Bendixstrasse 91,17,28,0.6071,nein
+102,11,Ausgetreten Jahr Monat Tag,1912 Mai 31,1912 Mai 31,0,11,0.0,ja
+102,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Hrch 57 Post.,✓ Hoch 5y. Yoll.,6,15,0.4,nein
+103,1,No,904,904,0,3,0.0,ja
+103,2,Familienname,Dieter,Dieter,0,6,0.0,ja
+103,3,Vorname,Emma,Emma,0,4,0.0,ja
+103,4,Heimatsort,,u.,2,0,2.0,nein
+103,5,Land,"""",u.,2,1,2.0,nein
+103,6,Geburtsjahr,1886,1886,0,4,0.0,ja
+103,7,Beruf,"""",u.,2,1,2.0,nein
+103,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+103,9,Eingetreten Jahr Monat Tag,"1911 "" 18",1911 u. 18,2,9,0.2222,nein
+103,10,Wohnung Strasse No.,Centralstr. 131,Centralstr. 131,0,15,0.0,ja
+103,11,Ausgetreten Jahr Monat Tag,1911 März 1.,1911 März 1.,0,12,0.0,ja
+103,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+104,1,No,905,905,0,3,0.0,ja
+104,2,Familienname,Hauser,Häuser,1,6,0.1667,nein
+104,3,Vorname,Lina,Kina,1,4,0.25,nein
+104,4,Heimatsort,Ruferswyl,Rüferswyl,1,9,0.1111,nein
+104,5,Land,"""",u.,2,1,2.0,nein
+104,6,Geburtsjahr,1877,1877,0,4,0.0,ja
+104,7,Beruf,"""",u.,2,1,2.0,nein
+104,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+104,9,Eingetreten Jahr Monat Tag,"1911 "" 18",1911 u. 18,2,9,0.2222,nein
+104,10,Wohnung Strasse No.,Spöri Zellweg 64,Zellweg 64,6,16,0.375,nein
+104,11,Ausgetreten Jahr Monat Tag,1911 Marz 1.,1911 März 1.,1,12,0.0833,nein
+104,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+105,1,No,906,906,0,3,0.0,ja
+105,2,Familienname,Huber,Huber,0,5,0.0,ja
+105,3,Vorname,Emma,Emma,0,4,0.0,ja
+105,4,Heimatsort,Elsau,Elsau,0,5,0.0,ja
+105,5,Land,"""",u.,2,1,2.0,nein
+105,6,Geburtsjahr,1888,1888,0,4,0.0,ja
+105,7,Beruf,b. C.,G. C.,1,5,0.2,nein
+105,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+105,9,Eingetreten Jahr Monat Tag,1911 Febr. 1.,1911 Febr. 1.,0,13,0.0,ja
+105,10,Wohnung Strasse No.,H. Josefstr. 271 Feldeggstr. 26,Tetellegstr. 26,18,31,0.5806,nein
+105,11,Ausgetreten Jahr Monat Tag,1911 Okt. 14,1911 Okt. 14,0,12,0.0,ja
+105,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ 27 JAN 1911,✓,12,13,0.9231,nein
+106,1,No,907,907,0,3,0.0,ja
+106,2,Familienname,Mazzanli,Mazzanti,1,8,0.125,nein
+106,3,Vorname,Therese,Therese,0,7,0.0,ja
+106,4,Heimatsort,Massacara,Massacara,0,9,0.0,ja
+106,5,Land,Italien,Italien,0,7,0.0,ja
+106,6,Geburtsjahr,1883,1883,0,4,0.0,ja
+106,7,Beruf,Verk,PerK,2,4,0.5,nein
+106,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+106,9,Eingetreten Jahr Monat Tag,1911 Jan. 27,1911 Jan. 23.,2,12,0.1667,nein
+106,10,Wohnung Strasse No.,Eidmatstr. 9,Eidmatstr. 9,0,12,0.0,ja
+106,11,Ausgetreten Jahr Monat Tag,1911 März 14.,1911 März 14.,0,13,0.0,ja
+106,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+107,1,No,908,908,0,3,0.0,ja
+107,2,Familienname,Wahl,Wahl,0,4,0.0,ja
+107,3,Vorname,Clara,Clara,0,5,0.0,ja
+107,4,Heimatsort,Rubendorf,Rübeudorf,2,9,0.2222,nein
+107,5,Land,D' land,B'land,2,7,0.2857,nein
+107,6,Geburtsjahr,1882,1882,0,4,0.0,ja
+107,7,Beruf,,u.,2,0,2.0,nein
+107,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+107,9,Eingetreten Jahr Monat Tag,1911 Febr. 2.,1911 Febr. 2.,0,13,0.0,ja
+107,10,Wohnung Strasse No.,Berthastr. 8.,Berthastr. 8,1,13,0.0769,nein
+107,11,Ausgetreten Jahr Monat Tag,1912 Okt 31,1912 Okt. 31,1,11,0.0909,nein
+107,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+108,1,No,909,909,0,3,0.0,ja
+108,2,Familienname,Peiffer,Reiffen,2,7,0.2857,nein
+108,3,Vorname,Blanche.,Blanche,1,8,0.125,nein
+108,4,Heimatsort,,u.,2,0,2.0,nein
+108,5,Land,"""",u.,2,1,2.0,nein
+108,6,Geburtsjahr,,,0,0,0.0,ja
+108,7,Beruf,P. At.,P. At.,0,6,0.0,ja
+108,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+108,9,Eingetreten Jahr Monat Tag,"1911 "" 1.",1911 u. 1.,2,9,0.2222,nein
+108,10,Wohnung Strasse No.,Scheuchzerstr. 28,Scheuchzerstr. 28,0,17,0.0,ja
+108,11,Ausgetreten Jahr Monat Tag,1911 Juni 15.,1911 Juni 15.,0,13,0.0,ja
+108,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+109,1,No,910,910,0,3,0.0,ja
+109,2,Familienname,Meier,Weier,1,5,0.2,nein
+109,3,Vorname,Melanie,Melanie,0,7,0.0,ja
+109,4,Heimatsort,Stallikon,Hallikon,2,9,0.2222,nein
+109,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+109,6,Geburtsjahr,1893,1893,0,4,0.0,ja
+109,7,Beruf,""" """,u. u.,4,3,1.3333,nein
+109,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+109,9,Eingetreten Jahr Monat Tag,"1911 "" 1.",1911 u. 1.,2,9,0.2222,nein
+109,10,Wohnung Strasse No.,Seefeldstr. 19.,Benediktstr. 15,8,15,0.5333,nein
+109,11,Ausgetreten Jahr Monat Tag,1911 März 11,1911 März 11.,1,12,0.0833,nein
+109,12,Bemerkungen des Kontrollbeamten (Art. 12),,S. Silverius 61. Abm. früher,28,0,28.0,nein
+110,1,No,911,911,0,3,0.0,ja
+110,2,Familienname,Hotz,Stotz,2,4,0.5,nein
+110,3,Vorname,Ida,Ada,1,3,0.3333,nein
+110,4,Heimatsort,München,München,0,7,0.0,ja
+110,5,Land,Bayern,Bayern,0,6,0.0,ja
+110,6,Geburtsjahr,8 II 1895,1895,5,9,0.5556,nein
+110,7,Beruf,Lehren.,Lehrer,2,7,0.2857,nein
+110,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+110,9,Eingetreten Jahr Monat Tag,1911 März 1.,1911 März 1.,0,12,0.0,ja
+110,10,Wohnung Strasse No.,Militärstr. 21,Militärstr. 2,1,14,0.0714,nein
+110,11,Ausgetreten Jahr Monat Tag,1911 März 30,1911 März 30,0,12,0.0,ja
+110,12,Bemerkungen des Kontrollbeamten (Art. 12),✓ Silverius 61 Werbführer,✓,24,25,0.96,nein
+111,1,No,912,912,0,3,0.0,ja
+111,2,Familienname,Schürch,Schürch,0,7,0.0,ja
+111,3,Vorname,Martha.,Martha,1,7,0.1429,nein
+111,4,Heimatsort,Büren g. Hof Bern,Bürgen,11,17,0.6471,nein
+111,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+111,6,Geburtsjahr,1890,1890,0,4,0.0,ja
+111,7,Beruf,C. At.,C. Get.,2,6,0.3333,nein
+111,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+111,9,Eingetreten Jahr Monat Tag,1911 Jan. 31.,1911 Jan. 31.,0,13,0.0,ja
+111,10,Wohnung Strasse No.,Wirterthurstr. 96 Milchbuck,Weilchbuck 9,19,27,0.7037,nein
+111,11,Ausgetreten Jahr Monat Tag,1912. Mai 29.,1912 Mai 29,2,13,0.1538,nein
+111,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+112,1,No,913,913,0,3,0.0,ja
+112,2,Familienname,Ahlenhoff,Ahlenhoff,0,9,0.0,ja
+112,3,Vorname,Margarete,Margarete,0,9,0.0,ja
+112,4,Heimatsort,Leipzig,Leipzig,0,7,0.0,ja
+112,5,Land,D'schland,Ostschland,3,9,0.3333,nein
+112,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+112,7,Beruf,Verk.,PerK.,2,5,0.4,nein
+112,8,Bisheriger Wohnort,Leipzig,Leipzig,0,7,0.0,ja
+112,9,Eingetreten Jahr Monat Tag,1911 März 1,1911 März 1.,1,11,0.0909,nein
+112,10,Wohnung Strasse No.,Heringstrasse 2,Staringstrasse 2,3,15,0.2,nein
+112,11,Ausgetreten Jahr Monat Tag,1911 Juni 15,1911 Juni 15.,1,12,0.0833,nein
+112,12,Bemerkungen des Kontrollbeamten (Art. 12),,✓,1,0,1.0,nein
+113,1,No,914,914,0,3,0.0,ja
+113,2,Familienname,von Schenk.,o. u. Scheinb.,7,11,0.6364,nein
+113,3,Vorname,Margarete,Margarete,0,9,0.0,ja
+113,4,Heimatsort,Zürich,Zürich,0,6,0.0,ja
+113,5,Land,Schweiz.,Schweiz,1,8,0.125,nein
+113,6,Geburtsjahr,1873,1873,0,4,0.0,ja
+113,7,Beruf,Verk.,PerK.,2,5,0.4,nein
+113,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+113,9,Eingetreten Jahr Monat Tag,1911 Apr. 1.,1911 Apr. 1.,0,12,0.0,ja
+113,10,Wohnung Strasse No.,Friedhofgasse 4,Friedhofgasse 4,0,15,0.0,ja
+113,11,Ausgetreten Jahr Monat Tag,1912 März 31,1912 März 31,0,12,0.0,ja
+113,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+114,1,No,915,915,0,3,0.0,ja
+114,2,Familienname,Wertreicher,Westreicher,1,11,0.0909,nein
+114,3,Vorname,Joseph.,Joseph,1,7,0.1429,nein
+114,4,Heimatsort,Pfunds,Pfunds,0,6,0.0,ja
+114,5,Land,Tirol,Tirol,0,5,0.0,ja
+114,6,Geburtsjahr,1878,1858,1,4,0.25,nein
+114,7,Beruf,Maurer,Maurier,1,6,0.1667,nein
+114,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+114,9,Eingetreten Jahr Monat Tag,1911 Febr. 27.,1911 Febr. 25.,1,14,0.0714,nein
+114,10,Wohnung Strasse No.,Seebahn 123 Gertrudels. 26,Gertrudstr. 26,15,26,0.5769,nein
+114,11,Ausgetreten Jahr Monat Tag,1911 Dez. 2,1911 Okt. 2.,4,11,0.3636,nein
+114,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+115,1,No,916,916,0,3,0.0,ja
+115,2,Familienname,Scholl,Schott,2,6,0.3333,nein
+115,3,Vorname,Henriette,Henriette,0,9,0.0,ja
+115,4,Heimatsort,Frankfurt,Frankfurt,0,9,0.0,ja
+115,5,Land,D'schld.,Ostschld.,3,8,0.375,nein
+115,6,Geburtsjahr,1890,1840,1,4,0.25,nein
+115,7,Beruf,Verk.,PerK.,2,5,0.4,nein
+115,8,Bisheriger Wohnort,Frankfurt.,Frankfurt,1,10,0.1,nein
+115,9,Eingetreten Jahr Monat Tag,1911 Apr. 1.,1911 Apr. 1.,0,12,0.0,ja
+115,10,Wohnung Strasse No.,Kullmannstr.,Kullmannstr.,0,12,0.0,ja
+115,11,Ausgetreten Jahr Monat Tag,1911 Mai 4,1911 Nov. 14,5,10,0.5,nein
+115,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+116,1,No,917,917,0,3,0.0,ja
+116,2,Familienname,Fröhlich,Fröhlich,0,8,0.0,ja
+116,3,Vorname,Anna,Anna,0,4,0.0,ja
+116,4,Heimatsort,Konstanz,Housteau,5,8,0.625,nein
+116,5,Land,"""",u.,2,1,2.0,nein
+116,6,Geburtsjahr,1889,1889,0,4,0.0,ja
+116,7,Beruf,"""",u.,2,1,2.0,nein
+116,8,Bisheriger Wohnort,Konstanz,Housteau,5,8,0.625,nein
+116,9,Eingetreten Jahr Monat Tag,1911 März 15.,1911 März 13.,1,13,0.0769,nein
+116,10,Wohnung Strasse No.,Brunngasse 3.,Brunnigasse 3,2,13,0.1538,nein
+116,11,Ausgetreten Jahr Monat Tag,1911 Juni 30.,1911 Juni 30.,0,13,0.0,ja
+116,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+117,1,No,918,918,0,3,0.0,ja
+117,2,Familienname,Brunner,Brunner,0,7,0.0,ja
+117,3,Vorname,Alice,Alice,0,5,0.0,ja
+117,4,Heimatsort,Rieden,Kieden,1,6,0.1667,nein
+117,5,Land,Schweiz,Schweiz,0,7,0.0,ja
+117,6,Geburtsjahr,1887,1887,0,4,0.0,ja
+117,7,Beruf,"""",u.,2,1,2.0,nein
+117,8,Bisheriger Wohnort,Zürich,Zürich,0,6,0.0,ja
+117,9,Eingetreten Jahr Monat Tag,1911 März 15,1911 März 15.,1,12,0.0833,nein
+117,10,Wohnung Strasse No.,Minervastr. 27,Köinervastr. 27,2,14,0.1429,nein
+117,11,Ausgetreten Jahr Monat Tag,1912 Ap. 30,1912 Apr. 30,1,11,0.0909,nein
+117,12,Bemerkungen des Kontrollbeamten (Art. 12),Alois 41,Hois 41,2,8,0.25,nein
+118,1,No,919,919,0,3,0.0,ja
+118,2,Familienname,Schaier,Schäfer,2,7,0.2857,nein
+118,3,Vorname,Rebecca Bertha,Rebecca,7,14,0.5,nein
+118,4,Heimatsort,Braila,Braila,0,6,0.0,ja
+118,5,Land,Rumänien,Rumänien,0,8,0.0,ja
+118,6,Geburtsjahr,1887,1883,1,4,0.25,nein
+118,7,Beruf,"""",u.,2,1,2.0,nein
+118,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+118,9,Eingetreten Jahr Monat Tag,8b,1911 Febr. 1.,12,2,6.0,nein
+118,10,Wohnung Strasse No.,Anherstr. 118 Centralstr. 35,Centralstr. 35,14,28,0.5,nein
+118,11,Ausgetreten Jahr Monat Tag,1912 Oct. 30,1912 Okt. 30,1,12,0.0833,nein
+118,12,Bemerkungen des Kontrollbeamten (Art. 12),✓,✓,0,1,0.0,ja
+119,1,No,920,920,0,3,0.0,ja
+119,2,Familienname,Spähni,Spähni,0,6,0.0,ja
+119,3,Vorname,Hermann,Hermann,0,7,0.0,ja
+119,4,Heimatsort,Zürich.,Zürich,1,7,0.1429,nein
+119,5,Land,Schweiz.,Schweiz,1,8,0.125,nein
+119,6,Geburtsjahr,1884,1884,0,4,0.0,ja
+119,7,Beruf,Lagerist,Lagerist,0,8,0.0,ja
+119,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+119,9,Eingetreten Jahr Monat Tag,1911 März 15.,1911 März 15.,0,13,0.0,ja
+119,10,Wohnung Strasse No.,Badenerstr. 256,Badenerstr. 256,0,15,0.0,ja
+119,11,Ausgetreten Jahr Monat Tag,1911 Apr. 15,1911 Apr. 15.,1,12,0.0833,nein
+119,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
+120,1,No,921,921,0,3,0.0,ja
+120,2,Familienname,Dick,Wick,1,4,0.25,nein
+120,3,Vorname,Frieda.,Frieda,1,7,0.1429,nein
+120,4,Heimatsort,Schwyz,Schwyz,0,6,0.0,ja
+120,5,Land,"""",u.,2,1,2.0,nein
+120,6,Geburtsjahr,1891,1891,0,4,0.0,ja
+120,7,Beruf,Verk.,PerK.,2,5,0.4,nein
+120,8,Bisheriger Wohnort,"""",u.,2,1,2.0,nein
+120,9,Eingetreten Jahr Monat Tag,1911 März 13.,1911 März 13.,0,13,0.0,ja
+120,10,Wohnung Strasse No.,Bauhallenstr. 7,Bauhallenstr. 3,1,15,0.0667,nein
+120,11,Ausgetreten Jahr Monat Tag,1911 Sept. 15,1911 Sept. 15,0,13,0.0,ja
+120,12,Bemerkungen des Kontrollbeamten (Art. 12),,,0,0,0.0,ja
